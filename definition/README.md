@@ -23,7 +23,7 @@ We're here to make that journey successful.
 * We care enough to track people and what they're doing. But we are not evil.
 * We know that, at some point, things might get risky. Because we care about them, we know there are services and products they can buy. But we are not salespeople.
 
-## Do developers need you?
+## Do developers need you?
 
 DevRel covers some basic needs of the [cool kids](cool-kid.md):
 
