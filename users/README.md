@@ -8,14 +8,14 @@ Over time, developers become concerned with the operation of a system. The major
 
 Depending on the size of the company they work for, they could be in operator mode OR in developer mode by role or just because it's that time of the day...
 
-## Profile
+## Profile
 
-* __B__alance - do I want to do the right things, or do things right?
-* __A__mbition - build a better business, or use better technology?
-* __S__kill - apprentice or master of my craft?
-* __I__nfluence - me, my team, my company... or the world?
-* __C__hallenges - what obstacles and hurdles might I face, and what questions will I ask?
-* __S__atisfaction - what matters to them, and what does the DevRel relationship do to meet their needs?
+* __B__ alance - do I want to do the right things, or do things right?
+* __A__ mbition - build a better business, or use better technology?
+* __S__ kill - apprentice or master of my craft?
+* __I__ nfluence - me, my team, my company... or the world?
+* __C__ hallenges - what obstacles and hurdles might I face, and what questions will I ask?
+* __S__ atisfaction - what matters to them, and what does the DevRel relationship do to meet their needs?
 
 ## It's all about potential
 
