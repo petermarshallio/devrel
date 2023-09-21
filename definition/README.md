@@ -23,6 +23,16 @@ We're here to make that journey successful.
 * We care enough to track people and what they're doing. But we are not evil.
 * We know that, at some point, things might get risky. Because we care about them, we know there are services and products they can buy. But we are not salespeople.
 
+## Do developers need you?
+
+DevRel covers some basic needs of the [cool kids](cool-kid.md):
+
+* __Capability__ - contributions to the code, feature demonstrations, roadmap influence and relay
+* __Autonomy__ - documentation, interactive live labs, development kits, architectural patterns, code samples, tutorials, cookbooks, and courses
+* __Social action__ - hackathons, meetups, conferences, stand duty, best practice development, case study production
+* __Tutoring__ - expert clinics, AMA, problem solving and support, feature and tactics blogs
+* __Stewarding__ - outreach, handshake, identification, on-going check-in, and potential realization
+
 ## Do you need DevRel?
 
 > Use metrics to clarify areas of uncertainty. Consider the risk to the business of inaction, not just of action.
