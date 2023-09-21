@@ -1,2 +1,3 @@
-# devrel
-Docs repository for DevRel
+# Developer Relations
+
+Repo of information about Developer Relations
