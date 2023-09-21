@@ -30,6 +30,8 @@ I have a mix of skills that may include programming / software development, soft
 
 ### Challenges
 
+* How do I get started in 30 minutes?
+* Where can I get help?
 * I'm unfamiliar with the technology. I don't know what the APIs are, I don't know what they do.
 * I don't know how to solve a problem at scale.
 * I need to avoid traps and pitfalls - I have no idea they're even there.

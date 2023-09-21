@@ -17,15 +17,24 @@ Depending on the size of the company they work for, they could be in operator mo
 * __C__hallenges - what obstacles and hurdles might I face, and what questions will I ask?
 * __S__atisfaction - what matters to them, and what does the DevRel relationship do to meet their needs?
 
-## Potential
+## It's all about potential
 
 How will our relationship with them become fruitful? What's the journey endpoint?
 
-## Developer mode
+### The people we meet
 
-* The driver, the soldier, the cool kid
+* [Caretaker](caretaker.md)
+* [Knight](knight.md)
+* [Lookout](lookout.md)
+* [Soldier](soldier.md)
 
-## Operator mode
+### The people we want them to be
+
+* [Altruist](altruist.md)
+* [Ambassador](ambassador.md)
+* [Champion](champion.md)
+* [Mechanic](mechanic.md)
+* [Tutor](tutor.md)
 
 ## Learn more
 

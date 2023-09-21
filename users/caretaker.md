@@ -1,6 +1,6 @@
-# Operator
+# Caretaker
 
-I'm a caretaker, expected to keep the system working.  I have to make sure the tools used meet all non-functional requirements, such as availability, response time, compliance, disaster recovery, and interoperability.
+I keep the system working.  I have to make sure the tools used meet all non-functional requirements, such as availability, response time, compliance, disaster recovery, and interoperability.
 
 I'm particularly interested in the architecture of the solution so that I can keep it running against the SLAs and OLAs.
 
@@ -27,7 +27,9 @@ I'm very influential because the business look to me for things to work. But wil
 
 ### Challenges
 
-* Will this new system introduce risk?
+* Will this new system introduce risk? Is it safe?
+* How do I actually operate this thing?
+* Who can I meet who's already doing it?
 * This isn't the only thing I have to look after. Don't create more problems for me!
 
 ### Satisfaction

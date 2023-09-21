@@ -22,3 +22,4 @@ I talk about revolutionising businesses, not revolutions in technology.
 
 ## Potential
 
+* Where can I talk? What should I talk about?

@@ -30,6 +30,11 @@ My influence stretches out across the organization and I can speak confidently t
 
 ### Challenges
 
+* What is this thing? What does it do?
+* What problems is it designed to solve?
+* How does it compare to other things I already know? Or don't know?
+* Who else is using it?
+* Will it fit into my jigsaw puzzle?
 * How do I communicate what I learn with other architects?
 * What's the quickest route to understanding the value add to the architecture?
 * Who should be involved when something is being designed?
