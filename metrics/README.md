@@ -17,6 +17,7 @@
 * https://maida.kim/how-to-measure-the-value-of-developer-relations/
 * https://www.commonroom.io/blog/what-your-community-metrics-and-analytics-are-telling-you/
 * https://www.feverbee.com/why-youre-interpreting-community-member-satisfaction-data-all-wrong/
+* https://developerrelations.com/podcast/data-driven-community-management
 
 ## What matters to other teams?
 
