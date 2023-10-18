@@ -32,3 +32,4 @@ Developer Relations helps people make computers "do a thing."
 
 * [PRIMM: encouraging talk in programming lessons](https://www.raspberrypi.org/blog/primm-talk-in-programming-lessons-research-seminar/)
 * [Learn Druid](https:///www.github.com/implydata/learn-druid)
+* https://podcasts.apple.com/us/podcast/the-state-of-developer-education/id1658813805 
