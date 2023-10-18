@@ -18,6 +18,7 @@
 * https://www.commonroom.io/blog/what-your-community-metrics-and-analytics-are-telling-you/
 * https://www.feverbee.com/why-youre-interpreting-community-member-satisfaction-data-all-wrong/
 * https://developerrelations.com/podcast/data-driven-community-management
+* https://dagster.io/blog/fake-stars
 
 ## What matters to other teams?
 
