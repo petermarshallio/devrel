@@ -39,3 +39,6 @@ DevRel covers some basic needs of the [cool kids](cool-kid.md):
 > 
 > [Myrsini Koukiasa](https://www.linkedin.com/in/myrsinikoukiasa/), DevRelCon London, 2023
 
+> DevRel and growth is the bridge between developers and sales, between developers, sales and product.
+>
+> [Daniel Bryant](https://developerrelations.com/strategy-and-metrics/is-product-led-growth-the-devops-of-the-devrel-world)
