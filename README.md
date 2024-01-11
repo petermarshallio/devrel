@@ -1,6 +1,6 @@
 # Developer Relations
 
-Repo of information about Developer Relations
+Repo of information about Developer Relations, compiled from lots of Developer Relations experts around the world.
 
 * [What is DevRel for?](definition/README.md)
 * [Who is it for?](users/README.md)
