@@ -8,13 +8,13 @@ We are also able to increase retention as we get to know more people, de-risking
 
 ## Indicator
 
-| Level               	| Definition                                                                                                                                                                                                                                               	|
-|---------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| 1 - ISOLATED        	| No attendance at any form of public meeting                                                                                                                                                                                                              	|
-| 2 - DEPENDENT       	|                                                                                                                                                                                                                                                          	|
-| 3 - CONTRIBUTING    	| Sees people approaching who may have been on a similar journey and actively says “hello” to be beside them.                                                                                                                                              	|
-| 4 - PARTICIPATING   	| Participates in group sessions to solve issues and provide help. Warmly welcomes new members as a way to network.                                                                                                                                        	|
-| 5 - SELF-ORGANIZING 	| Organizes gatherings spontaneously to bring people together to solve issues and provide help others are facing. Creates and sustains materials for a range of personas that can be used by any member of the community to talk about the technology convincingly. 	|
+| Level               | Definition                                                                                                                                                                                                                                               |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 - ISOLATED        | No attendance at any form of public meeting                                                                                                                                                                                                              |
+| 2 - DEPENDENT       |                                                                                                                                                                                                                                                          |
+| 3 - CONTRIBUTING    | Sees people approaching who may have been on a similar journey and actively says “hello” to be beside them.                                                                                                                                              |
+| 4 - PARTICIPATING   | Participates in group sessions to solve issues and provide help. Warmly welcomes new members as a way to network.                                                                                                                                        |
+| 5 - SELF-ORGANIZING | Organizes gatherings spontaneously to bring people together to solve issues and provide help others are facing. Creates and sustains materials for a range of personas that can be used by any member of the community to talk about the technology convincingly. |
 
 ## DevRel skillset
 
@@ -23,6 +23,9 @@ As a team, we use [Stakeholder Relationship Management](https://sfia-online.org/
 ## Transition signals and events
 
 ### 1 to 2
-### 2 to 3
-### 3 to 4
+
+### 2 to 3
+
+### 3 to 4
+
 ### 4 to 5

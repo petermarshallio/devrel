@@ -8,21 +8,22 @@ And through engagement, we increase retention by supporting people to speak up a
 
 ## Indicator
 
-| Level               	| Definition                                                                                                                                                                                                                           	|
-|---------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| 1 - ISOLATED        	| No public visibility of their use of our technology.  Only those inside the organization – and maybe their suppliers – know about it.                                                                                                  	|
-| 2 - DEPENDENT       	| They appear on the Powered By / Use Cases page but may not have celebrated the addition themselves. Has a use case on the web hosted by (and perhaps written by) a third party.                                                                  	|
-| 3 - CONTRIBUTING    	|                                                                                                                                                                                                                                      	|
-| 4 - PARTICIPATING   	| Manages the Powered By page entry for their organisation proactively, with the contributor known to be an active member of the community. Their personal / corporate blog contains one or more published use cases for our tech. 	|
-| 5 - SELF-ORGANIZING 	|                                                                                                                                                                                                                                      	|
+| Level               | Definition                                                                                                                                                                                                                           |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 - ISOLATED        | No public visibility of their use of our technology.  Only those inside the organization – and maybe their suppliers – know about it.                                                                                                  |
+| 2 - DEPENDENT       | They appear on the Powered By / Use Cases page but may not have celebrated the addition themselves. Has a use case on the web hosted by (and perhaps written by) a third party.                                                                  |
+| 3 - CONTRIBUTING    |                                                                                                                                                                                                                                      |
+| 4 - PARTICIPATING   | Manages the Powered By page entry for their organisation proactively, with the contributor known to be an active member of the community. Their personal / corporate blog contains one or more published use cases for our tech. |
+| 5 - SELF-ORGANIZING |                                                                                                                                                                                                                                      |
 
 ## DevRel skillset
-
-
 
 ## Transition signals and events
 
 ### 1 to 2
-### 2 to 3
-### 3 to 4
+
+### 2 to 3
+
+### 3 to 4
+
 ### 4 to 5

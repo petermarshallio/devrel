@@ -17,19 +17,19 @@ Reacting to the needs of developers, the POSITIVE DevRel Maturity Framework help
 ## Pillars
 
 * Capability
-	* [Voice](maturity-voice.md)
-	* [Enterprise](maturity-enterprise.md)
+* [Voice](maturity-voice.md)
+* [Enterprise](maturity-enterprise.md)
 
 * Autonomy
-	* [Skill](maturity-skill.md)
+* [Skill](maturity-skill.md)
 
 * Tutoring
-	* [Innovation](maturity-innovation.md)
-	* [Solutions](maturity-solutions.md)
+* [Innovation](maturity-innovation.md)
+* [Solutions](maturity-solutions.md)
 
 * Stewardship
-	* [Observations](maturity-observations.md)
-	* [People](maturity-people.md)
+* [Observations](maturity-observations.md)
+* [People](maturity-people.md)
 
 * Social action
-	* [Inspiration](maturity-inspiration.md)
+* [Inspiration](maturity-inspiration.md)
