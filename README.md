@@ -1,6 +1,13 @@
 # Developer Relations
 
-Repo of information about Developer Relations, compiled from lots of Developer Relations experts around the world.
+A repository exploring Developer Relations as a capability for technical adoption, operational trust, collaborative learning, and ecosystem maturity.
+
+## Foundations
+
+* [Purpose](foundations/purpose.md)
+* [STACK](foundations/stack.md)
+
+## Existing Material
 
 * [What is DevRel for?](definition/README.md)
 * [Who is it for?](users/README.md)
