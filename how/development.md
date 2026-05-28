@@ -5,7 +5,6 @@ Providing direction to the engineering function based on the experience of end u
 ## Benefits for developers
 
 * SDKs for use in developer platforms and tools
-* 
 
 ## Benefits for other teams
 
@@ -13,7 +12,7 @@ Providing direction to the engineering function based on the experience of end u
 
 * Internal enablement and training materials
 
-### Sales
+### Sales
 
 * Pace of adoption
 

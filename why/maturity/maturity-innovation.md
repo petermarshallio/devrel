@@ -26,7 +26,7 @@ It supports retention goals by elevating the people that produce relevant and re
 
 ## DevRel skillset
 
-Leveraging skills in [Research](https://sfia-online.org/en/sfia-8/skills/research), [Innovation](https://sfia-online.org/en/sfia-8/skills/innovation), [Content Authoring](https://sfia-online.org/en/sfia-8/skills/content-authoring), [Requirements Definition and Management](https://sfia-online.org/en/sfia-8/skills/requirements-definition-and-management), and [Solution Architecture](https://sfia-online.org/en/sfia-8/skills/solution-architecture), we create [champions](../users/champion.md) out of [knights](../users/knight.md), sharing expertise that makes our technology relevant.  We invite people to do something more than just theorise about the value that the technology can bring to them and their organization.
+Leveraging skills in [Research](https://sfia-online.org/en/sfia-8/skills/research), [Innovation](https://sfia-online.org/en/sfia-8/skills/innovation), [Content Authoring](https://sfia-online.org/en/sfia-8/skills/content-authoring), [Requirements Definition and Management](https://sfia-online.org/en/sfia-8/skills/requirements-definition-and-management), and [Solution Architecture](https://sfia-online.org/en/sfia-8/skills/solution-architecture), we create [champions](../participants/champion.md) out of [knights](../participants/knight.md), sharing expertise that makes our technology relevant.  We invite people to do something more than just theorise about the value that the technology can bring to them and their organization.
 
 ## Transition signals and events
 

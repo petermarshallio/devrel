@@ -16,14 +16,11 @@ When people have a voice and it’s heard, we facilitate growth and retain custo
 | 4 - PARTICIPATING   |                                                 |
 | 5 - SELF-ORGANIZING |                                                                                            |
 
-
 ## DevRel skillset
-
-
 
 ## Transition signals and events
 
 ### 1 to 2
-### 2 to 3
-### 3 to 4
+### 2 to 3
+### 3 to 4
 ### 4 to 5

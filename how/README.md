@@ -8,7 +8,7 @@ DevRel tends the developer ecosystem in systematic ways. The operational framewo
 
 ## STACK
 
-STACK describes the five modes through which DevRel shapes the graph.
+STACK describes the five modes through which DevRel shapes the graph. For a quick reference version of each pillar, see [STACK reference](stack.md).
 
 **Stewardship** is surveying and tending the whole graph. Identifying isolated nodes. Outreach to practitioners who have gone quiet. Ongoing check-in. Trust maintenance. Custodial care of the ecosystem as a system — not just serving individuals who show up, but actively looking for those who haven't. Stewardship is systemic; it is not the same as mentoring, which is a relationship with a specific person. A Steward tends the garden. A mentor tends a plant.
 
@@ -29,7 +29,7 @@ STACK describes the five modes through which DevRel shapes the graph.
 Each STACK pillar operates on a different part of the graph:
 
 | Pillar | Graph operation |
-|---|---|
+| --- | --- |
 | Stewardship | Surveying and tending the whole graph |
 | Tutoring | Strengthening individual nodes |
 | Autonomy | Enabling nodes to operate without DevRel as intermediary |
@@ -42,13 +42,13 @@ Each STACK pillar operates on a different part of the graph:
 
 DevRel activity clusters into four families. Each family inputs to a different strategic goal:
 
-**Information** drives Adoption. This is the knowledge and education work: documentation, tutorials, notebooks, courses, reference guides, interactive labs. The goal is reducing the friction of technical adoption — making it easier to understand, easier to try, easier to build.
+**Information** drives Adoption. This is the knowledge and education work: documentation, tutorials, notebooks, courses, reference guides, interactive labs. The goal is reducing the friction of technical adoption — making it easier to understand, easier to try, easier to build. See: [documentation](documentation.md), [education](education.md), [support](support.md). For how channels are layered from awareness through deep investigation, see [channels](channels.md).
 
-**Inspiration** drives Market awareness. This is the evangelism and storytelling work: conference talks, blog posts, demos, case studies, content that makes practitioners aware something exists and curious enough to investigate it. Inspiration is the work that moves people from not knowing to wanting to know more.
+**Inspiration** drives Market awareness. This is the evangelism and storytelling work: conference talks, blog posts, demos, case studies, content that makes practitioners aware something exists and curious enough to investigate it. Inspiration is the work that moves people from not knowing to wanting to know more. See: [advocacy](advoacy.md).
 
 **Involvement** drives Loyalty. This is the open source contribution, hackathon, event, and co-creation work — the programmes that invite practitioners to participate in the ecosystem, not just consume from it. Involvement deepens the edges. It turns Beneficiaries into Donors.
 
-**Innovation** drives Product development. This is the feedback, roadmap influence, and feature contribution work — the programmes that bring practitioner knowledge into the product itself. Innovation is how the ecosystem shapes what gets built.
+**Innovation** drives Product development. This is the feedback, roadmap influence, and feature contribution work — the programmes that bring practitioner knowledge into the product itself. Innovation is how the ecosystem shapes what gets built. See: [development](development.md).
 
 Programme scope and priority depend on the organisation's emphasis on paid versus unpaid relationships. A product-led growth company will weigh Information and Innovation heavily. A brand-led company may weight Inspiration. The mix is always a strategic choice.
 
@@ -78,7 +78,7 @@ DevRel is the hub between primary and support functions. Not a controller. A fac
 Each programme family maps to the functions it primarily interfaces with:
 
 | Programme family | Primary interfaces |
-|---|---|
+| --- | --- |
 | Information | Product, Docs, Customer Success |
 | Inspiration | Marketing, Sales |
 | Involvement | Engineering, Open Source, Events |

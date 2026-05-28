@@ -8,7 +8,7 @@ When I move to other places, I want to repeat my success. I'm a person that will
 
 I talk about revolutions in technology.
 
-## Profile
+## Profile
 
 ### Balance
 
@@ -16,11 +16,10 @@ I talk about revolutions in technology.
 
 ### Skill
 
-### Influence
+### Influence
 
-### Challenges
+### Challenges
 
-### Satisfaction
+### Satisfaction
 
 ## Potential
-

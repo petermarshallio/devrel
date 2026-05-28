@@ -62,20 +62,27 @@ Practitioners coordinate independently.
 
 ## Pillars
 
-* Capability
-* [Voice](maturity-voice.md)
-* [Enterprise](maturity-enterprise.md)
+Each STACK pillar has its own maturity dimension — a way of reading how well the ecosystem is developing along that axis. The tables in each linked document show what each level looks like in practice.
 
-* Autonomy
-* [Skill](maturity-skill.md)
+**Stewardship** — how well DevRel can see and tend the graph
 
-* Tutoring
-* [Innovation](maturity-innovation.md)
-* [Solutions](maturity-solutions.md)
+* [Observations](maturity-observations.md) — ecosystem visibility and health monitoring
+* [People](maturity-people.md) — knowing who is in the graph and connecting them
 
-* Stewardship
-* [Observations](maturity-observations.md)
-* [People](maturity-people.md)
+**Tutoring** — how effectively individual nodes are being strengthened
 
-* Kinship
-* [Inspiration](maturity-inspiration.md)
+* [Skill](maturity-skill.md) — learning progression from personal experimentation to shared curriculum
+
+**Autonomy** — how self-sufficient the ecosystem has become
+
+* [Solutions](maturity-solutions.md) — the ecosystem's ability to solve its own problems without DevRel in the room
+
+**Capability** — the collective load-bearing capacity of the graph
+
+* [Voice](maturity-voice.md) — practitioners' ability to influence the technology's direction
+* [Shared Enterprise](maturity-enterprise.md) — collective contribution to building the technology itself
+
+**Kinship** — the quality and density of the edges
+
+* [Innovation](maturity-innovation.md) — practitioners creating and sharing knowledge together
+* [Inspiration](maturity-inspiration.md) — the ecosystem telling its own story publicly

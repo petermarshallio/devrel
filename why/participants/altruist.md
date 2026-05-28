@@ -6,7 +6,7 @@ I want to contribute to the code base. I want to add components. And I do it bec
 
 I'm a problem solver, I want to build bridges between people and their keyboard, and I want to be on your project committee.
 
-## Profile
+## Profile
 
 ### Balance
 
@@ -14,11 +14,10 @@ I'm a problem solver, I want to build bridges between people and their keyboard,
 
 ### Skill
 
-### Influence
+### Influence
 
-### Challenges
+### Challenges
 
-### Satisfaction
+### Satisfaction
 
 ## Potential
-

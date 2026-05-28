@@ -6,7 +6,7 @@ In particular, it helps us retain people on the journey by seeing off issues tha
 
 Regarding growth, this pillar creates leads as people register for forums and see adverts there for our company's products and other sponsored community tools.  And through one-to-one conversation between peers when troubleshooting particularly difficult problems, we look like the experts, and become internal referrers for Leads ourselves.
 
-We create relationships out of our interactions to create more mentors who will help and inspire people throughout their adoption journey. 
+We create relationships out of our interactions to create more mentors who will help and inspire people throughout their adoption journey.
 
 ## Indicator
 
@@ -25,6 +25,6 @@ We use skills in [Application Support](https://sfia-online.org/en/sfia-8/skills/
 ## Transition signals and events
 
 ### 1 to 2
-### 2 to 3
-### 3 to 4
+### 2 to 3
+### 3 to 4
 ### 4 to 5

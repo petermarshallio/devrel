@@ -1,17 +1,6 @@
 # Developer Relations
 
-<<<<<<< Updated upstream
-A repository exploring Developer Relations as a capability for technical adoption, operational trust, collaborative learning, and ecosystem maturity.
-
-## Foundations
-
-* [Purpose](foundations/purpose.md)
-* [STACK](foundations/stack.md)
-
-## Existing Material
-=======
 What is it actually for?
->>>>>>> Stashed changes
 
 Not the elevator pitch version. Not the job description version. Not the version that gets written into a board deck to justify headcount. The real version — the one that explains why this function exists, what it does that nothing else does, and why the organisations that understand it well tend to build ecosystems that outlast them.
 
@@ -33,13 +22,16 @@ The operational framework for that tending is STACK: **S**tewardship, **T**utori
 
 This repository is organised around three questions.
 
-**[Why does DevRel exist?](why/README.md)**
+### [Why does DevRel exist?](why/README.md)
+
 The foundational theory: what DevRel is, what kind of system it tends, who the participants are, how ecosystem maturity works, and why organisations need this capability. Start here if you are trying to understand DevRel or make the case for it.
 
-**[Who does this work?](who/README.md)**
+### [Who does this work?](who/README.md)
+
 The practitioner lens: what kind of person does DevRel, what instruments they carry, and how they grow. Grounded in Aristotle's three modes of persuasion — Logos, Ethos, Pathos — expressed as the Expert Educator, the Connected Correspondent, and the Reputable Resonator. Start here if you are considering a career in DevRel or building a team.
 
-**[How is DevRel built and run?](how/README.md)**
+### [How is DevRel built and run?](how/README.md)
+
 The operational framework: STACK in detail, the four programme families (Information, Inspiration, Involvement, Innovation), Intel as the observability layer, and how DevRel aligns across an organisation's functions. Start here if you are building or running a DevRel function.
 
 ---

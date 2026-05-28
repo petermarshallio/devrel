@@ -10,10 +10,10 @@
 
 ## Examples
 
-*[To be developed — examples of EE practice across different contexts: stage, documentation, workshops, video, labs.]*
+[To be developed — examples of EE practice across different contexts: stage, documentation, workshops, video, labs.]
 
 ---
 
 ## Development guidance
 
-*[To be developed — what growth looks like for an EE. The knowledge is already there. What develops is the craft of accessibility: how to translate without losing precision, how to scaffold without over-simplifying, how to know when someone has understood rather than just heard.]*
+[To be developed — what growth looks like for an EE. The knowledge is already there. What develops is the craft of accessibility: how to translate without losing precision, how to scaffold without over-simplifying, how to know when someone has understood rather than just heard.]

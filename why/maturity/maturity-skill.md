@@ -1,6 +1,6 @@
 # Skill
 
-Developing wisdom by making knowledge an experience, we elevate every developer, whether a [soldier](../users/soldier.md) or [caretaker](../users/caretaker.md), from an apprentice (personal learning) to a master (trusted advisor) of our technology
+Developing wisdom by making knowledge an experience, we elevate every developer, whether a [soldier](../participants/soldier.md) or [caretaker](../participants/caretaker.md), from an apprentice (personal learning) to a master (trusted advisor) of our technology
 
 Anyone can find practical guidance on the technology and its ecosystem, using environments that make learning and adoption easy.
 

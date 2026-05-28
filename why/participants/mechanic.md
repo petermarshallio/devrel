@@ -6,7 +6,7 @@ I'm in tier 3 or tier 4 support. I consider myself to be extremely well-versed i
 
 When someone wants me to advise them on whether to take a course of action with some tool or other, I'm there.
 
-## Profile
+## Profile
 
 ### Balance
 
@@ -20,15 +20,15 @@ I care that other people are using things properly. That they have set it up to 
 
 I'm the master of my craft.
 
-### Influence
+### Influence
 
 Because I'm so experienced and knowledgeable, I've got big sway not just inside the company but out into the wider world. People know my name.
 
-### Challenges
+### Challenges
 
 * I can get very deep into technologies. How do I achieve my personal ambition to be the best that there is?
 
-### Satisfaction
+### Satisfaction
 
 * Deep technical educational materials
 

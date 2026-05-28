@@ -12,10 +12,10 @@ Critically: resonance without substance is hollow. Conviction without knowledge 
 
 ## Examples
 
-*[To be developed — examples of RR practice across different contexts: keynote talks, long-form writing, practitioner introductions, endorsements, public positions.]*
+[To be developed — examples of RR practice across different contexts: keynote talks, long-form writing, practitioner introductions, endorsements, public positions.]
 
 ---
 
 ## Development guidance
 
-*[To be developed — what growth looks like for an RR. The craft of resonance is already there. What develops is substantive depth — enough technical or relational grounding that the resonance is unimpeachable. This often means deliberate investment in EE or CC development, not as a replacement for RR but as the foundation that makes it last.]*
+[To be developed — what growth looks like for an RR. The craft of resonance is already there. What develops is substantive depth — enough technical or relational grounding that the resonance is unimpeachable. This often means deliberate investment in EE or CC development, not as a replacement for RR but as the foundation that makes it last.]

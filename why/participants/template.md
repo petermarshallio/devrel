@@ -1,7 +1,7 @@
 # Template
 
 
-## Profile
+## Profile
 
 ### Balance
 
@@ -9,11 +9,10 @@
 
 ### Skill
 
-### Influence
+### Influence
 
-### Challenges
+### Challenges
 
-### Satisfaction
+### Satisfaction
 
 ## Potential
-

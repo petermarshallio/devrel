@@ -62,8 +62,7 @@ taxonomy: from awareness through understanding to application, analysis,
 synthesis, and evaluation. Makes complex things accessible. Knowledge
 flows outward. Deep technical or conceptual expertise is the foundation.
 Can be an extrovert on stage or an introvert writing the definitive
-reference — the mode of expression varies, the instrument is the same.
-*Archetype: David Attenborough.*
+reference — the mode of expression varies, the instrument is the same. *Archetype: David Attenborough.*
 
 **Connected Correspondent (CC)** — Ethos
 The instrument of trust and credibility. Draws on Polanyi's concept of
@@ -72,8 +71,7 @@ explicit. Builds relationships so deep and non-transactional that people
 say things they would never say to a salesperson or marketer. Truth flows
 inward. The CC is the person who gets the unfiltered customer story, the
 real product feedback, the honest opinion. Can be a networker or a
-deeply introverted one-on-one relationship builder.
-*Archetype: Louis Theroux.*
+deeply introverted one-on-one relationship builder. *Archetype: Louis Theroux.*
 
 **Reputable Resonator (RR)** — Pathos + Newman's illative sense
 The instrument of conviction. Does not merely inform (EE) or extract
@@ -86,8 +84,7 @@ or presence to something elevates it. Crucially, the RR skill is
 distinct from EE and CC — it is the craft of translation and resonance
 itself. But without grounding in EE or CC knowledge/relationships, RR
 resonance is hollow. Conviction without knowledge is manipulation.
-Conviction without trust is propaganda.
-*Archetype: Nancy Duarte's subjects; Tim Berglund; Charity Majors.*
+Conviction without trust is propaganda. *Archetype: Nancy Duarte's subjects; Tim Berglund; Charity Majors.*
 
 **Luminary** is not a fourth archetype — it is a career stage. A Luminary
 is an EE, CC, or RR whose reputation now precedes them. Sought, not
@@ -214,35 +211,41 @@ Update all internal links after moving.
 
 This is the foundational document. Rewrite entirely with this structure:
 
-**Opening: the canonical definition**
+#### Opening: the canonical definition
+
 > Developer Relations is an organisational capability for reducing the
 > uncertainty, friction, and cognitive cost of technical adoption while
 > increasing practitioner capability, confidence, autonomy, and kinship.
 
-**The graph model**
+#### The graph model
+
 Developer ecosystems are graphs. Explain nodes, edges, and why DevRel's
 role is to see and tend the graph rather than to market or sell.
 Explain that developer ecosystems are socio-technical systems — adoption
 is fundamentally a learning and trust challenge.
 
-**The value exchange**
+#### The value exchange
+
 Introduce Donors, Beneficiaries, and Guardians. Explain each. Explain
 why Guardians are structurally important — they are load-bearing nodes
 with strong bidirectional edges. DevRel cultivates conditions for all
 three, with particular attention to helping Guardians emerge.
 
-**The maturity model**
+#### The maturity model
+
 Introduce the five levels as graph topology progression. Frame as
 ecosystem operational maturity, not community engagement maturity.
 
-**Signals**
+#### Signals
+
 Introduce Intel as the observability layer. Healthy ecosystems are
 observable. DevRel is the function that instruments that observability.
 Reframe metrics as signals: ecosystem telemetry that reveals operational
 friction, dependency patterns, distributed capability, and trust
 formation.
 
-**Why organisations need DevRel**
+#### Why organisations need DevRel
+
 Preserve and lightly update the existing quotes from Myrsini Koukiasa
 and Daniel Bryant. Frame DevRel as organisational observability for
 technical adoption — the function that surfaces ecosystem signals no
@@ -259,26 +262,30 @@ they grow? Write it in a warm, direct, narrative register — not a
 taxonomy. The intended entry point is someone asking "so you want to
 work in DevRel?"
 
-**Opening**
+#### Opening
+
 DevRel practitioners carry one of three fundamental instruments —
 grounded in Aristotle's three modes of persuasion. Most carry a blend,
 but with a dominant tendency.
 
-**Expert Educator (EE) — Logos**
+#### Expert Educator (EE) — Logos
+
 Full description per the framework above. Include Bloom's taxonomy.
 Include the David Attenborough archetype. Include that EE can be
 expressed through stage or through written work — introversion is not
 a barrier. Entry path: often via engineering, pre-sales, architecture,
 curriculum design. Development need: communication craft.
 
-**Connected Correspondent (CC) — Ethos**
+#### Connected Correspondent (CC) — Ethos
+
 Full description per the framework above. Include Polanyi's tacit
 knowledge. Include the Louis Theroux archetype. Include that CC requires
 unlearning broadcast instincts — it is genuinely non-transactional.
 Entry path: often via marketing, events, journalism, community
 management. Development need: the courage of no-agenda relationships.
 
-**Reputable Resonator (RR) — Pathos**
+#### Reputable Resonator (RR) — Pathos
+
 Full description per the framework above. Include Newman's illative
 sense and "brings people to conviction." Include Nancy Duarte reference.
 Include that RR is a distinct capability — not derived from EE and CC
@@ -287,15 +294,18 @@ technical depth serves the resonance, not the other way around. Include
 that resonance without substance is hollow; conviction without knowledge
 is manipulation; conviction without trust is propaganda.
 
-**Luminary**
+#### Luminary
+
 Not an archetype but a career stage. Describe what it means to become
 a Luminary. Connect to earned credibility in different market contexts.
 
-**Growth paths**
+#### Growth paths
+
 For each archetype, describe what development looks like. What does
 an EE need to develop? A CC? An RR?
 
-**A note on personality**
+#### A note on personality
+
 These archetypes do not map to personality types. An EE can be an
 introvert or extrovert. A CC can work a room or build deep one-on-one
 relationships. An RR can own a stage or write the article everyone
@@ -307,7 +317,8 @@ cannot wait to read.
 
 This document answers: how is DevRel built and run?
 
-**STACK**
+#### STACK
+
 Introduce STACK as the operational framework for tending the graph.
 For each pillar (S, T, A, C, K) write 2-3 sentences covering what it
 is, why it matters, and its distinguishing characteristic.
@@ -319,18 +330,21 @@ Map STACK to the graph model:
 - Capability → collective load-bearing capacity of the graph
 - Kinship → quality and density of the edges
 
-**The four program families**
+#### The four program families
+
 Introduce Information, Inspiration, Involvement, Innovation. For each,
 describe what programs live in it and which strategic goal it inputs to.
 Note that program scope and priority depends on the organisation's
 emphasis on paid vs unpaid relationships.
 
-**Intel**
+#### Intel
+
 Describe Intel as the observability layer beneath all four families.
 Explain what Intel produces: signals about ecosystem health, emerging
 Guardians, friction points, dependency patterns.
 
-**Cross-functional alignment**
+#### Cross-functional alignment
+
 DevRel as hub/glue between business functions. Map the four program
 families to the functions they interface with:
 - Information → Product, Docs, Customer Success

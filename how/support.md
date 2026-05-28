@@ -10,7 +10,7 @@ Offering problem management and incident management to the developer community, 
 
 ### Marketing
 
-### Sales
+### Sales
 
 ### Engineering
 

@@ -6,7 +6,7 @@ I'm known for sharing my opinions and knowledge publicly at meetups, conferences
 
 I talk about revolutionising businesses, not revolutions in technology.
 
-## Profile
+## Profile
 
 ### Balance
 
@@ -14,11 +14,11 @@ I talk about revolutionising businesses, not revolutions in technology.
 
 ### Skill
 
-### Influence
+### Influence
 
-### Challenges
+### Challenges
 
-### Satisfaction
+### Satisfaction
 
 ## Potential
 

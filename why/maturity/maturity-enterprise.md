@@ -1,6 +1,6 @@
 # Shared enterprise
 
-We are passionate about advancing the technology we use, sharing goals that [altruists](../users/altruist.md) (who were probably [soldiers](../users/soldier.md) themselves once) can work towards together (e.g. new functionality, fixes, and docs updates), praising those that helped achieve them (e.g. the contributors), and amplifying their work so people know about what they’ve done and who they are.
+We are passionate about advancing the technology we use, sharing goals that [altruists](../participants/altruist.md) (who were probably [soldiers](../participants/soldier.md) themselves once) can work towards together (e.g. new functionality, fixes, and docs updates), praising those that helped achieve them (e.g. the contributors), and amplifying their work so people know about what they’ve done and who they are.
 
 Particularly for open source projects, we are respectful. We _never_ exert undue influence.
 

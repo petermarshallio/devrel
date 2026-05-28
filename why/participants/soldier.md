@@ -10,7 +10,7 @@ I'm an early adopter, I'm willing to experiment. Generally scan, but when someth
 
 I have a mix of skills that may include programming / software development, software design, data modelling and design, real-time / embedded systems development, analytics, visualisation, testing, and UX design.
 
-## Profile
+## Profile
 
 ### Balance
 
@@ -24,11 +24,11 @@ I have a mix of skills that may include programming / software development, soft
 
 80% apprentice, 20% master.
 
-### Influence
+### Influence
 
 80% me and my team. 20% the company.
 
-### Challenges
+### Challenges
 
 * How do I get started in 30 minutes?
 * Where can I get help?
@@ -41,7 +41,7 @@ I have a mix of skills that may include programming / software development, soft
 * I have no idea how to demonstrate what I'm building - or how I built it - effectively.
 * I don't know what the right tooling environment or technical ecosystem is.
 
-### Satisfaction
+### Satisfaction
 
 * I get peer recognition by belonging.
 * I love researching.

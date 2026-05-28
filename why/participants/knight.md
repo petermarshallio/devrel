@@ -10,7 +10,7 @@ I am a trusted advisor with a commercial head on my shoulders. I have a finger o
 
 I'm listened to when anyone suggests some tech could ease pain, and whether it could replace, displace, or augment existing technology, whether that’s for the business as a whole, a physical location, or specific business function or service. That often means I have strong working relationship with Business Analysts, Service Transition, and other internal architects.
 
-## Profile
+## Profile
 
 ### Balance
 
@@ -24,11 +24,11 @@ I want to build a better business by having the right technology. I'm here to te
 
 I know what the value is that things provide. I'm not really here to get my hands dirty as a master in one or other technology.
 
-### Influence
+### Influence
 
 My influence stretches out across the organization and I can speak confidently to organizations with similar problems.
 
-### Challenges
+### Challenges
 
 * What is this thing? What does it do?
 * What problems is it designed to solve?
@@ -46,7 +46,7 @@ My influence stretches out across the organization and I can speak confidently t
 * Does this align with my other architectural designs?
 * Why is no-one looking at my sweet diagrams?
 
-### Satisfaction
+### Satisfaction
 
 * Rationale
 * Use cases

@@ -77,7 +77,7 @@ See [metrics and signals](metrics/README.md) for how to make this operational.
 > Use metrics to clarify areas of uncertainty. Consider the risk to the business of inaction, not just of action.
 >
 > [Myrsini Koukiasa](https://www.linkedin.com/in/myrsinikoukiasa/), DevRelCon London, 2023
-
+>
 > DevRel and growth is the bridge between developers and sales, between developers, sales and product.
 >
 > [Daniel Bryant](https://developerrelations.com/strategy-and-metrics/is-product-led-growth-the-devops-of-the-devrel-world)
@@ -89,3 +89,10 @@ Other functions see parts of the graph. Sales sees the deals. Marketing sees the
 In Porter's value chain terms, DevRel is neither a primary nor a support function in isolation. It is a hub between them — not a controller, but a facilitator. It opens doors. It brings people together across the boundaries where knowledge and trust would otherwise not flow. It reduces the organisational friction that makes adoption harder than it needs to be.
 
 The question is not whether your practitioners need help. They do. The question is whether your organisation can afford not to see the graph.
+
+---
+
+## Further reading
+
+- [Practitioner characteristics](cool-kid.md) — the learning profile that technical practitioners tend to share; background for understanding why adoption is a learning and trust challenge
+- [DevRel to win](devrel-to-win.md) — principles and rules of DevRel practice

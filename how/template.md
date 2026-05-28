@@ -8,7 +8,7 @@
 
 ### Marketing
 
-### Sales
+### Sales
 
 ### Engineering
 

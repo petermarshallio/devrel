@@ -12,7 +12,7 @@ The STACK framework defines the core dimensions required for this work.
 
 ---
 
-# Stewardship
+## Stewardship
 
 Sustaining ecosystem trust, health, continuity, and operational integrity.
 
@@ -30,7 +30,7 @@ Stewardship recognizes that technical ecosystems require custodianship, not mere
 
 ---
 
-# Tutoring
+## Tutoring
 
 Accelerating understanding and operational competence.
 
@@ -50,7 +50,7 @@ Tutoring recognizes that technical adoption is fundamentally a learning challeng
 
 ---
 
-# Autonomy
+## Autonomy
 
 Reducing dependency while increasing practitioner agency.
 
@@ -67,7 +67,7 @@ Autonomy is achieved when practitioners can operate confidently without centrali
 
 ---
 
-# Capability
+## Capability
 
 Increasing operational and technical effectiveness.
 
@@ -83,7 +83,7 @@ Capability is the practical expression of successful technical adoption.
 
 ---
 
-# Kinship
+## Kinship
 
 Enabling fellowship through shared technical endeavor.
 

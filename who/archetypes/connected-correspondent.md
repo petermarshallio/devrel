@@ -10,10 +10,10 @@
 
 ## Examples
 
-*[To be developed — examples of CC practice across different contexts: one-on-one relationship building, structured listening programmes, practitioner advisory groups, informal community presence.]*
+[To be developed — examples of CC practice across different contexts: one-on-one relationship building, structured listening programmes, practitioner advisory groups, informal community presence.]
 
 ---
 
 ## Development guidance
 
-*[To be developed — what growth looks like for a CC. The relationships are already there. What develops is the discipline of non-transactional presence: showing up without an agenda, resisting the broadcast instinct, and building the courage to listen without immediately routing what is heard toward a business outcome.]*
+[To be developed — what growth looks like for a CC. The relationships are already there. What develops is the discipline of non-transactional presence: showing up without an agenda, resisting the broadcast instinct, and building the courage to listen without immediately routing what is heard toward a business outcome.]

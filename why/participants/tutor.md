@@ -8,7 +8,7 @@ I'm all about "high touch" 1:1 settings, like Office Hours / Drop-in and forums.
 
 > Potentially the same as a mechanic?
 
-## Profile
+## Profile
 
 ### Balance
 
@@ -16,11 +16,10 @@ I'm all about "high touch" 1:1 settings, like Office Hours / Drop-in and forums.
 
 ### Skill
 
-### Influence
+### Influence
 
-### Challenges
+### Challenges
 
-### Satisfaction
+### Satisfaction
 
 ## Potential
-

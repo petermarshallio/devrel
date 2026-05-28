@@ -4,7 +4,8 @@
 
 **Role in the graph:** Guardians are bidirectional, high-degree nodes. They are disproportionately important to the health of the graph — like a keystone species in an ecological sense. Remove a Guardian and you remove not just one node but all the edges they maintained: the relationships, the knowledge transfer, the informal mentoring, the trust they lent to others. Guardians are also very sticky. Their investment in the ecosystem deepens their attachment to it.
 
-**Example behaviours:**
+## Example behaviours
+
 - Answering questions consistently — in forums, Slack, GitHub, and in person
 - Contributing to open source projects with depth and consistency over time
 - Mentoring newer practitioners, often informally
@@ -23,3 +24,14 @@ DevRel creates the conditions under which Guardians emerge. This means:
 - **Nurturing** the transition from Beneficiary to Donor to Guardian — through recognition, access, and genuine relationship (not transactional programmes).
 - **Protecting** Guardian wellbeing — Guardians burn out. The practitioner who has been answering questions for years without adequate recognition, rest, or reciprocity is a flight risk. DevRel watches for this.
 - **Not extracting** — Guardian relationships become corrupted when DevRel treats them as amplification channels. The Guardian who feels used stops being one. Guardianship is sustained by genuine kinship, not by programme mechanics.
+
+---
+
+## Practitioner profiles
+
+The following profiles describe Guardian types encountered in the ecosystem.
+
+- [The Ambassador](ambassador.md) — technical SME and thought leader; known for sharing publicly; talks about business transformation
+- [The Champion](champion.md) — on a personal mission to establish their organisation as innovative; their reputation is transferable
+- [The Mechanic](mechanic.md) — deep expert; tier 3/4 support-level knowledge; people know their name
+- [The Knight](knight.md) — the trusted evaluator; not yet a Guardian but a high-influence Beneficiary whose endorsement opens doors

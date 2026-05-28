@@ -7,7 +7,7 @@ I'm particularly interested in the architecture of the solution so that I can ke
 I know the risk and overhead of operating entire systems - including open source - so I'm often a catalyst for conversion as I experience first hand the need for customer success.
 
 
-## Profile
+## Profile
 
 ### Balance
 
@@ -21,18 +21,18 @@ I want things to be doing things right, not necessarily whether we're doing the 
 
 I care about whether the system works more than I do about the minute details. I'm an apprentice in a lot of things.
 
-### Influence
+### Influence
 
 I'm very influential because the business look to me for things to work. But will I go on a stand? Maybe not.
 
-### Challenges
+### Challenges
 
 * Will this new system introduce risk? Is it safe?
 * How do I actually operate this thing?
 * Who can I meet who's already doing it?
 * This isn't the only thing I have to look after. Don't create more problems for me!
 
-### Satisfaction
+### Satisfaction
 
 * Stability through education.
 * Understanding of dependency in the ecosystem.
