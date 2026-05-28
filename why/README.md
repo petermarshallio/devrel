@@ -94,5 +94,4 @@ The question is not whether your practitioners need help. They do. The question 
 
 ## Further reading
 
-- [Practitioner characteristics](cool-kid.md) — the learning profile that technical practitioners tend to share; background for understanding why adoption is a learning and trust challenge
-- [DevRel to win](devrel-to-win.md) — principles and rules of DevRel practice
+- [Practitioner characteristics](practitioners.md) — the learning profile that technical practitioners tend to share; background for understanding why adoption is a learning and trust challenge

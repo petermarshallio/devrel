@@ -1,64 +1,41 @@
-# The soldier
+# The Soldier
 
-While I might start out using X because I’ve taken it on advisement, I may also have been motivated to pick up more knowledge.  My mix of skills enable me to complete DevOps work that delivers releases.
+The Soldier is an early adopter under time pressure. They do not have a budget — they have a problem to solve. They want to get from zero to working as quickly as possible, and they are willing to experiment to get there. When something catches their attention, they go deep; until then, they scan.
 
-I do not have a budget - I have a problem to solve.
+Their skill set is typically broad: programming, software design, data modelling, testing, operations, analytics. They cover a lot of ground. They are rarely the deepest expert in any one thing, but they are capable of moving quickly across many.
 
-I am not necessarily thinking about what people want: I just want to get from A to B in the quickest possible manner.
+## What drives them
 
-I'm an early adopter, I'm willing to experiment. Generally scan, but when something attracts my attention, I’m willing to go deep.
+The Soldier wants to ship. The technical challenge is engaging — roughly 90% of their interest is in the technology itself, with the remainder in what it delivers for the business. They lean toward doing things right rather than doing the right things. Correctness and craft matter to them, even under pressure.
 
-I have a mix of skills that may include programming / software development, software design, data modelling and design, real-time / embedded systems development, analytics, visualisation, testing, and UX design.
+They find validation from their peers and from belonging to a community of practitioners who take the work seriously.
 
-## Profile
+## Where they get stuck
 
-### Balance
+The Soldier's challenges are the challenges of the frontier:
 
-90% the cool tech. 10% a better business.
+- How do I get started in 30 minutes?
+- I do not know what the APIs are or what they do.
+- I do not know how to solve this problem at scale.
+- I do not know what the traps and pitfalls are — I don't even know they're there.
+- I have no reference point: no peers who've done this, no examples of what has been built.
+- I am not sure how this technology relates to my existing expertise.
+- I don't know how to demonstrate what I am building — or how I built it.
 
-### Ambition
+Content that does not anticipate these questions will lose the Soldier at exactly the moment they are most open to adoption.
 
-80% doing things right. 20% doing the right things.
+## What moves them forward
 
-### Skill
+- Fast, functional getting-started paths — working implementations in under 30 minutes
+- Clear tutorials and worked examples that cover the common traps
+- Inspiring technical detail that connects to things they already know
+- Peer recognition: knowing others have built this successfully
+- Expert guidance available when they get stuck
 
-80% apprentice, 20% master.
+## In the ecosystem
 
-### Influence
+The Soldier is a [Beneficiary](beneficiary.md) at the entry point of adoption — potentially one of the most important nodes to serve well, because the Soldier who succeeds early is the Soldier who comes back, goes deeper, and eventually becomes a [Mechanic](mechanic.md), [Altruist](altruist.md), or [Champion](champion.md).
 
-80% me and my team. 20% the company.
+The first 30 minutes matters enormously. DevRel's Autonomy work — the documentation, the tutorials, the quick-start paths — exists largely for practitioners like the Soldier.
 
-### Challenges
-
-* How do I get started in 30 minutes?
-* Where can I get help?
-* I'm unfamiliar with the technology. I don't know what the APIs are, I don't know what they do.
-* I don't know how to solve a problem at scale.
-* I need to avoid traps and pitfalls - I have no idea they're even there.
-* I don't have an existing reference point - I don't know anyone else, I don't know what they've built.
-* I'm not sure how any of this relates to my existing expertise.
-* Is it worth me going deeper into this in the long term?
-* I have no idea how to demonstrate what I'm building - or how I built it - effectively.
-* I don't know what the right tooling environment or technical ecosystem is.
-
-### Satisfaction
-
-* I get peer recognition by belonging.
-* I love researching.
-* I like validation.
-* Inspiring technical detail
-* Functional demonstrations
-* Tutorials and courses
-* Implementation details
-* Expert tutoring
-* Influencer endorsement
-
-## Potential
-
-* Mechanic
-* Altruist
-* Champion
-
-## Learn more
-
-* "Enthusiast" in Moore's Competitive Positioning Compass
+See also: "Enthusiast" in Moore's Competitive Positioning Compass.

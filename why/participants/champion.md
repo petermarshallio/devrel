@@ -1,25 +1,30 @@
-# Champion
+# The Champion
 
-I'm on a personal mission to establish my organization as deeply innovative / an early adopter / a builder of revolutionary and cool stuff.
+The Champion is on a personal mission. They want to establish their organisation — and themselves — as technically bold: early adopters, innovators, builders of things that matter. They have felt the success of doing something difficult well, and they want to repeat it and to be known for it.
 
-I have personal goals to be famous for being deeply brilliant. I talk about my org's use cases and how they use the technology to solve business problems. And why it is that I was a pivotal part of it.
+Champions talk about revolutions in technology, not just in business. They have strong opinions. They share them. When they move organisations, they carry their convictions with them — and often carry their technology choices with them too.
 
-When I move to other places, I want to repeat my success. I'm a person that will influence people around me to re-use and re-purpose because I've seen and felt success with my own two hands.
+## What drives them
 
-I talk about revolutions in technology.
+The Champion is motivated by reputation and impact — their own and their organisation's. They want to be the person who saw it first, adopted it successfully, and brought others along. They are not shy about the personal dimension of this ambition.
 
-## Profile
+Their influence is transferable. When a Champion moves to a new organisation, they bring their hard-won convictions about what works. That stickiness makes them particularly valuable to the ecosystem over time.
 
-### Balance
+## Where they get stuck
 
-### Ambition
+Champions need to be able to tell a story they are proud of. If the technology does not perform, if the implementation is difficult to explain, or if the business case is weak, the Champion loses their narrative — and their motivation to advocate.
 
-### Skill
+They can also be frustrated by a lack of access. Champions want to be close to the people building the technology, to have input into its direction, and to be seen as a partner rather than a customer.
 
-### Influence
+## What moves them forward
 
-### Challenges
+- Success at scale — reference implementations and case studies that match their ambition
+- Access to product and engineering leadership
+- Speaking opportunities that showcase their organisation's work
+- Recognition that affirms their vision and their role in it
 
-### Satisfaction
+## In the ecosystem
 
-## Potential
+The Champion is a [Guardian](guardian.md) in formation or already in full flight. Their investment in the ecosystem is tied to their personal identity — which makes them both deeply committed and potentially high-maintenance if the relationship becomes transactional.
+
+DevRel's role with Champions is to sustain the conditions that make advocacy feel genuine rather than obligatory. The Champion who feels used stops being one.

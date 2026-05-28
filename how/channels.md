@@ -1,79 +1,76 @@
-# DevRel access strategy
+# Channels
 
-Design an access strategy for your company. Something something something darkside.
+Not all DevRel content reaches practitioners in the same way, or at the same moment in their journey. An access strategy is a deliberate design for how different channels serve practitioners at different depths of engagement — from first awareness through to active contribution.
 
-## Synchronous versus asynchronous delivery
+---
 
-__Synchronous channels__ are in a specific place, at a specific time. There's immediate feedback and interaction, and opportunity for relationship making.
+## Synchronous versus asynchronous
 
-It might be a place where people can therefore go deep.
+**Synchronous channels** place practitioners in a specific context at a specific time — a talk, a clinic, an event, a live workshop. They create conditions for immediate feedback, relationship formation, and depth. They work best when the practitioner already knows they have a question or a need.
 
-Sometimes these are not personalized channels - it can feel like this is about broad audiences, and not the needs of individuals.
+**Asynchronous channels** are available on demand. They serve self-directed learners — the practitioners who come in at 2am with a specific problem and no patience for scheduling. They require high discoverability and genuine quality, because the practitioner arrived of their own volition and will leave just as easily.
 
-__Asynchronous channels__ are accessed on demand whenever needed. They enable self-paced consumption - so they're great for the cool kids.
+A good access strategy uses both — but understands that the two modes serve different moments in the practitioner's journey, and designs for each accordingly.
 
-Accessing these requires awareness, ease of access, and a great deal of curiosity and self-motivation.
+---
 
-## Layers of the cake
+## Layers of depth
 
-Channels change the deeper you get to the implementation details of your product - ie, the code.
+Channels naturally cluster around depth of engagement. As practitioners move from curiosity to contribution, the channels that serve them change:
 
-You might layer this as follows:
+**Intrigue** — What is this? Worth my time?
 
-* Intrigue - what is this thing?
-* Self help - how do I use feature X?
-* Experience - how do I solve for problem X?
-* Facts - what's the system actually doing?
-* Investigation - why is it doing that?
-* Development - how do I change what it does?
+- Talks and conference appearances
+- Short-form posts and social content
+- Newsletters
+- Use cases and powered-by pages
+- Forums and community spaces at a light touch
 
-### Intrigue
+**Self-help** — How do I use feature X? Where do I start?
 
-Examples:
+- Searchable knowledge bases and cookbooks
+- Themed articles and topic playlists
+- Q&A spaces (Stack Overflow, Reddit, forums)
+- Scheduled drop-in clinics
 
-* Booths
-* Talks
-* Slack
-* Forums
-* Social media (X, LinkedIn)
-* Newsletters
-* Posts
-* Powered By / Use cases
-* YouTube Channel front page
+**Experience** — How do I solve problem X end-to-end?
 
-### Self help
+- Tutorials, notebooks, and guided labs
+- Training courses
+- Feature demos and explainer presentations
+- Online knowledge bases
 
-* Schedulable clinics
-* Stack overflow, Reddit Q&A
-* General drop-ins
-* Special interest groups and squads
-* Themed events
-* YouTube Channel playlists
-* Cookbooks
-* Themed articles
+**Facts** — What is the system actually doing?
 
-### Experience
+- Documentation (reference, conceptual, API)
+- Deep technical talks and explainer videos
 
-* Training courses
-* Lightning labs
-* Online forums and knowledgebases
-* Feature featurette presentations and demos
-* Tutorials and notebooks
+**Investigation** — Why is it doing that? What's really happening under the surface?
 
-### Facts
+- Engineering-level discussion channels
+- Developer mailing lists and deep-dive forums
 
-* Deep tech talks
-* Deep explainer videos - "under the covers"
-* Documentation
+**Development** — How do I change what it does?
 
-### Investigation
+- GitHub issues and pull requests
+- Contributor and committer spaces
+- Engineer meetups and working groups
 
-* Slack engineering channels
-* Developer mailing lists
+---
 
-### Development
+## Mapping to STACK and programme families
 
-* GitHub issues
-* GitHub PRs
-* Committer and contributor meetups
-* Engineer get-togethers
+The layers above are not just a content taxonomy — they map to the STACK framework:
+
+| Layer | STACK alignment | Programme family |
+| --- | --- | --- |
+| Intrigue | Stewardship, Kinship | Inspiration |
+| Self-help | Tutoring, Autonomy | Information |
+| Experience | Tutoring, Autonomy | Information |
+| Facts | Autonomy | Information |
+| Investigation | Autonomy | Information, Innovation |
+| Development | Capability, Kinship | Involvement, Innovation |
+
+The Information programme family owns the middle layers — self-help through facts. Inspiration works at the top. Involvement and Innovation live at the depth end, where practitioners have moved from consuming the ecosystem to contributing to it.
+
+Intel runs across all layers: every channel generates signals. Where practitioners drop off, what questions recur, which content drives the deepest engagement — all of it is ecosystem telemetry.

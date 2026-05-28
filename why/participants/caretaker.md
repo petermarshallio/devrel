@@ -1,43 +1,36 @@
-# Caretaker
+# The Caretaker
 
-I keep the system working.  I have to make sure the tools used meet all non-functional requirements, such as availability, response time, compliance, disaster recovery, and interoperability.
+The Caretaker keeps the system working. Their interest in technology is not primarily exploratory — it is operational. They need what they are responsible for to meet its non-functional requirements: availability, response time, compliance, disaster recovery, interoperability. They care about architecture because they are the one accountable for what happens at 3am when it breaks.
 
-I'm particularly interested in the architecture of the solution so that I can keep it running against the SLAs and OLAs.
+Caretakers are not early adopters. They are steady hands. They carry the weight of the systems that others have built and moved on from.
 
-I know the risk and overhead of operating entire systems - including open source - so I'm often a catalyst for conversion as I experience first hand the need for customer success.
+## What drives them
 
+The Caretaker wants stability, predictability, and operational control. Their focus is on doing things correctly rather than on doing new things. They will invest deeply in a technology once they trust it, but that trust is earned slowly and through evidence, not enthusiasm.
 
-## Profile
+They are influential inside their organisation — when the business asks whether something is safe to run in production, the Caretaker is the one who answers. That makes their endorsement operationally significant, even if they are not typically loud about it.
 
-### Balance
+## Where they get stuck
 
-My focus is on the business. I don't really have a passion for discovering new cool things to play with.
+The Caretaker's questions are operational:
 
-### Ambition
+- Will this new system introduce risk? Is it safe to run?
+- How do I actually operate this at scale?
+- Who else is running this in production? What did they learn?
+- What does the dependency footprint look like? What am I taking on?
+- This is not the only thing I am responsible for — do not create problems I cannot afford.
 
-I want things to be doing things right, not necessarily whether we're doing the right things.
+They are not interested in features. They are interested in failure modes, upgrade paths, operational runbooks, and peer experience.
 
-### Skill
+## What moves them forward
 
-I care about whether the system works more than I do about the minute details. I'm an apprentice in a lot of things.
+- Operational documentation: runbooks, architecture guides, upgrade procedures
+- Production case studies from organisations running at comparable scale
+- Community presence of other operators they can learn from and trust
+- Stability signals: long release cycles, clear deprecation policies, responsive support
 
-### Influence
+## In the ecosystem
 
-I'm very influential because the business look to me for things to work. But will I go on a stand? Maybe not.
+The Caretaker is a [Beneficiary](beneficiary.md) with significant internal influence. Their adoption decisions carry weight beyond their own team. DevRel's Stewardship work — the ongoing outreach, the operational content, the relationship maintenance — often reaches Caretakers before the programme content does.
 
-### Challenges
-
-* Will this new system introduce risk? Is it safe?
-* How do I actually operate this thing?
-* Who can I meet who's already doing it?
-* This isn't the only thing I have to look after. Don't create more problems for me!
-
-### Satisfaction
-
-* Stability through education.
-* Understanding of dependency in the ecosystem.
-* Operational visibility.
-
-## Potential
-
-* Technical content writer
+The Caretaker who becomes confident in a technology becomes one of its most durable advocates. They are not loud, but they are deeply persuasive inside their organisations — and they stay.

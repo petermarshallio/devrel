@@ -44,7 +44,7 @@ DevRel activity clusters into four families. Each family inputs to a different s
 
 **Information** drives Adoption. This is the knowledge and education work: documentation, tutorials, notebooks, courses, reference guides, interactive labs. The goal is reducing the friction of technical adoption — making it easier to understand, easier to try, easier to build. See: [documentation](documentation.md), [education](education.md), [support](support.md). For how channels are layered from awareness through deep investigation, see [channels](channels.md).
 
-**Inspiration** drives Market awareness. This is the evangelism and storytelling work: conference talks, blog posts, demos, case studies, content that makes practitioners aware something exists and curious enough to investigate it. Inspiration is the work that moves people from not knowing to wanting to know more. See: [advocacy](advoacy.md).
+**Inspiration** drives Market awareness. This is the evangelism and storytelling work: conference talks, blog posts, demos, case studies, content that makes practitioners aware something exists and curious enough to investigate it. Inspiration is the work that moves people from not knowing to wanting to know more. See: [advocacy](advocacy.md).
 
 **Involvement** drives Loyalty. This is the open source contribution, hackathon, event, and co-creation work — the programmes that invite practitioners to participate in the ecosystem, not just consume from it. Involvement deepens the edges. It turns Beneficiaries into Donors.
 
