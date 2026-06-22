@@ -1,43 +1,57 @@
 # Developer Relations
 
-What is it actually for?
+What makes a developer trust a technology enough to build their career on it? What makes them come back when something breaks at 2am, share what they learned, help the person who asked the same question they asked six months ago?
 
-Not the elevator pitch version. Not the job description version. Not the version that gets written into a board deck to justify headcount. The real version — the one that explains why this function exists, what it does that nothing else does, and why the organisations that understand it well tend to build ecosystems that outlast them.
+It is not marketing. It is not support. It is something older and more human than either — the slow accumulation of knowledge, trust, and belonging that turns a user into a practitioner, and a practitioner into someone who gives back.
 
-That is what this repository tries to answer.
+Developer Relations is the organisational capability that tends that process deliberately.
 
 ---
 
-## The short version
+## What DevRel is
 
-Developer Relations is an organisational capability for reducing the uncertainty, friction, and cognitive cost of technical adoption while increasing practitioner capability, confidence, autonomy, and kinship.
+Developer Relations is an organisational capability for reducing the uncertainty, friction, and cognitive cost of technical adoption — while increasing practitioner capability, confidence, autonomy, and the quality of the relationships they form with each other and with the technology they build on.
 
-Developer ecosystems are graphs. The nodes are practitioners, organisations, and products. The edges are the relationships, collaborations, dependencies, and exchanges between them. DevRel's job is to see that graph and tend it — strengthening weak edges, finding isolated nodes, creating new connections, and helping the graph become resilient enough to operate without DevRel routing everything through itself.
+Developer ecosystems are graphs. Nodes are the practitioners, organisations, and products in the ecosystem. Edges are the relationships, collaborations, dependencies, and exchanges between them. An ecosystem matures as those edges multiply and strengthen — as practitioners connect directly with each other, contribute back, and no longer depend on any single vendor to route every interaction.
 
-The operational framework for that tending is STACK: **S**tewardship, **T**utoring, **A**utonomy, **C**apability, **K**inship. Five modes through which DevRel shapes the ecosystem — from surveying the whole graph to building the quality of the edges between its nodes.
+DevRel's job is to see that graph and tend it. Not to market to it. Not to control it. To understand its topology, identify where nodes are isolated or edges are weak, and create the conditions for practitioners to thrive and connect.
+
+That is why DevRel is different from marketing, different from support, and different from sales — even when it uses similar tools. The intent and the relationship are different.
+
+---
+
+## Who the ecosystem serves
+
+Three types of participant make up a healthy developer ecosystem:
+
+**Donors** contribute to the ecosystem — code, knowledge, feedback, advocacy, time. They give without necessarily expecting a direct return on any individual contribution.
+
+**Beneficiaries** receive from the ecosystem — capability, confidence, solutions to problems. Every practitioner starts here. Most remain primarily here, and that is fine.
+
+**Guardians** are both simultaneously. They are the practitioners who have received enough to give back — and who do. They answer questions, write the article, speak at the meetup, contribute the fix. They are structurally load-bearing: their bidirectional edges make the ecosystem resilient in a way that purely beneficiary participation never can. When a Guardian moves organisations, they carry the relationship with them. When they speak, others listen.
+
+DevRel cultivates conditions for all three to flourish, with particular attention to the emergence and health of Guardians.
 
 ---
 
 ## Three doors
 
-This repository is organised around three questions.
+**[Why does DevRel exist?](why/README.md)**
+The graph model, the value exchange, and the two sets of goals DevRel holds simultaneously — the organisation's and the ecosystem's. The conceptual foundation for everything else in this repository.
 
-### [Why does DevRel exist?](why/README.md)
+**[Who does this work?](practitioners/README.md)**
+DevRel practitioners carry one of three fundamental instruments — grounded in Aristotle's three modes of persuasion. Understanding which instrument you carry, and which your team needs, is the first practical question in building a DevRel capability.
 
-The foundational theory: what DevRel is, what kind of system it tends, who the participants are, how ecosystem maturity works, and why organisations need this capability. Start here if you are trying to understand DevRel or make the case for it.
+**[What does DevRel do?](programs/README.md)**
+DevRel delivers a set of programmes organised into four families, each serving a different stage of the developer journey and a different strategic goal. Each programme can be described across People, Process, Place, and Technology — which means each one has a home, a measurement, and a clear conversation about where automation can help.
 
-### [Who does this work?](who/README.md)
-
-The practitioner lens: what kind of person does DevRel, what instruments they carry, and how they grow. Grounded in Aristotle's three modes of persuasion — Logos, Ethos, Pathos — expressed as the Expert Educator, the Connected Correspondent, and the Reputable Resonator. Start here if you are considering a career in DevRel or building a team.
-
-### [How is DevRel built and run?](how/README.md)
-
-The operational framework: STACK in detail, the four programme families (Information, Inspiration, Involvement, Innovation), Intel as the observability layer, and how DevRel aligns across an organisation's functions. Start here if you are building or running a DevRel function.
+**[How healthy is the ecosystem?](maturity/README.md)**
+Ecosystem maturity is not about headcount or event volume. It is about graph topology — how many direct connections exist, how resilient they are, and whether the ecosystem can self-organise without DevRel routing every interaction. The maturity model is the instrument for answering that question.
 
 ---
 
-## A note on this work
+> Use metrics to clarify areas of uncertainty. Consider the risk to the business of inaction, not just of action.
+> — [Myrsini Koukiasa](https://www.linkedin.com/in/myrsinikoukiasa/), DevRelCon London, 2023
 
-This is a theory, not a catalogue. It was written by people who have actually done this work — in the field, in the meetings, in the late-night forums, in the conference hallways. It draws on practitioners who were generous enough to think out loud in public.
-
-It will keep changing. The graph never stops moving.
+> DevRel and growth is the bridge between developers and sales, between developers, sales and product.
+> — [Daniel Bryant](https://developerrelations.com/strategy-and-metrics/is-product-led-growth-the-devops-of-the-devrel-world)
