@@ -192,4 +192,4 @@ genuinely serving the ecosystem's goals first. DevRel is the function that holds
 that intention, manages the interface, and keeps both sides of the exchange
 honest.
 
-Next up, [know your DevRel team](practitioners.md).
+Next up, [the participants in the ecosystem](participants.md).
