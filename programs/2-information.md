@@ -1,22 +1,40 @@
 # 2 - Information
 
-**Strategic goal:** [Adoption](../goals/adoption.md)
-**Journey stages:** [Assessment](../journey/assessment.md) → [Adoption](../journey/adoption.md) → [Acclimation](../journey/acclimation.md)
-**Primary practitioner:** [Expert Educator](../practitioners/expert-educator.md)
+**Strategic goal:** [Adoption](../goals/adoption.md) **Journey stages:**
+[Assessment](../journey/assessment.md) → [Adoption](../journey/adoption.md) →
+[Acclimation](../journey/acclimation.md) **Primary practitioner:**
+[Expert Educator](../practitioners/expert-educator.md)
 
-Information programmes reduce the distance between what a practitioner needs to know and what they currently know. They are the primary driver of adoption — without them, a practitioner who encounters a technology cannot determine whether it fits their need, cannot get started without unnecessary struggle, and cannot get unstuck when they hit the inevitable wall.
+Information programs reduce the distance between what a practitioner needs to
+know and what they currently know. They are the primary driver of adoption —
+without them, a practitioner who encounters a technology cannot determine
+whether it fits their need, cannot get started without unnecessary struggle, and
+cannot get unstuck when they hit the inevitable wall.
 
-**Beneficiaries** receive from the network. Knowledge, tools, answers, confidence. The Beneficiary's primary goal is to solve their problem and build their capability. The organisation's goal is for them to adopt successfully, build real things, and not churn. The alignment zone is wide: and that's why Information programmes are so important.
+**Beneficiaries** receive from the network. Knowledge, tools, answers,
+confidence. The Beneficiary's primary goal is to solve their problem and build
+their capability. The organisation's goal is for them to adopt successfully,
+build real things, and not churn. The alignment zone is wide: and that's why
+Information programs are so important.
 
-The programmes in this family serve three distinct needs: the practitioner who is deciding whether to use the technology (Assessment), the practitioner who is actively building with it (Adoption), and the practitioner who is running it in production and finding their feet (Acclimation).
+The programs in this family serve three distinct needs: the practitioner who is
+deciding whether to use the technology (Assessment), the practitioner who is
+actively building with it (Adoption), and the practitioner who is running it in
+production and finding their feet (Acclimation).
 
-The practitioner who is running the technology at scale, hitting the real edge cases, forming real opinions — holds knowledge the product team cannot manufacture. They know which parts of the documentation lie. They know which architectural pattern everyone uses and which one the docs recommend. They know what the technology cannot yet do that they need it to do.
+The practitioner who is running the technology at scale, hitting the real edge
+cases, forming real opinions — holds knowledge the product team cannot
+manufacture. They know which parts of the documentation lie. They know which
+architectural pattern everyone uses and which one the docs recommend. They know
+what the technology cannot yet do that they need it to do.
 
 ## Programs
 
 ### Education
 
-Structured learning paths that take a practitioner from a defined starting point to a defined level of capability. This includes formal courses, certifications, interactive labs, guided tutorials, and workshop curricula.
+Structured learning paths that take a practitioner from a defined starting point
+to a defined level of capability. This includes formal courses, certifications,
+interactive labs, guided tutorials, and workshop curricula.
 
 | Dimension | Description |
 | --- | --- |
@@ -25,11 +43,15 @@ Structured learning paths that take a practitioner from a defined starting point
 | **Place** | Learning management platforms (asynchronous, self-paced); instructor-led workshops (synchronous, in-person or virtual); interactive lab environments |
 | **Technology** | LMS platforms; interactive notebook environments; AI-assisted content generation for first drafts and Q&A scaffolding; completion and progression analytics |
 
-**Signal:** Course completion rates; time-to-first-deployment before and after course completion; downstream Q&A reduction on covered topics.
+**Signal:** Course completion rates; time-to-first-deployment before and after
+course completion; downstream Q&A reduction on covered topics.
 
 ### Documentation
 
-Reference material, conceptual guides, tutorials, cookbooks, and notebooks that practitioners use while building. This is the always-on, self-service layer of Information — the material a practitioner finds at midnight when no human is available.
+Reference material, conceptual guides, tutorials, cookbooks, and notebooks that
+practitioners use while building. This is the always-on, self-service layer of
+Information — the material a practitioner finds at midnight when no human is
+available.
 
 | Dimension | Description |
 | --- | --- |
@@ -38,13 +60,19 @@ Reference material, conceptual guides, tutorials, cookbooks, and notebooks that 
 | **Place** | Documentation site (asynchronous); integrated into developer portal; discoverable via public search |
 | **Technology** | Docs-as-code tooling; search and analytics; AI-assisted search and Q&A surfaces; feedback widgets that route signal back to authors |
 
-**Signal:** Search query success rate; time on page versus bounce; reduction in community questions after documentation updates; practitioner-reported confidence at key journey stages.
+**Signal:** Search query success rate; time on page versus bounce; reduction in
+community questions after documentation updates; practitioner-reported
+confidence at key journey stages.
 
 ### Tutoring
 
-The human layer of Information — real-time support for practitioners who are stuck. This includes bookable clinics, office hours, drop-in sessions, and community Q&A management.
+The human layer of Information — real-time support for practitioners who are
+stuck. This includes bookable clinics, office hours, drop-in sessions, and
+community Q&A management.
 
-Tutoring is distinct from product support. It is not about fixing defects; it is about capability transfer — helping a practitioner understand enough to unblock themselves and move forward.
+Tutoring is distinct from product support. It is not about fixing defects; it is
+about capability transfer — helping a practitioner understand enough to unblock
+themselves and move forward.
 
 | Dimension | Description |
 | --- | --- |
@@ -53,15 +81,21 @@ Tutoring is distinct from product support. It is not about fixing defects; it is
 | **Place** | Bookable video calls (synchronous); community Q&A forums (asynchronous); Slack or Discord channels; Stack Overflow presence |
 | **Technology** | Booking tooling (Calendly or equivalent); community platform; AI-assisted first-response for common questions; signal aggregation to identify recurring friction |
 
-**Signal:** Time to first meaningful response in community channels; question resolution rate; repeat question frequency (declining = good documentation; flat = documentation gap); practitioner-reported unblock rate.
+**Signal:** Time to first meaningful response in community channels; question
+resolution rate; repeat question frequency (declining = good documentation; flat
+= documentation gap); practitioner-reported unblock rate.
 
 ## Practitioner fit
 
-Information is the natural home of the Expert Educator. The CC may contribute through tutoring (the relationship layer of Q&A) and the RR through the occasional deep explainer or conference talk that reframes how a difficult topic is understood — but the sustained, systematic work of building and maintaining the Information family requires EE capability at its core.
+Information is the natural home of the Expert Educator. The CC may contribute
+through tutoring (the relationship layer of Q&A) and the RR through the
+occasional deep explainer or conference talk that reframes how a difficult topic
+is understood — but the sustained, systematic work of building and maintaining
+the Information family requires EE capability at its core.
 
 ## Organisational partners
 
-| Partner | Role in Information programmes |
+| Partner | Role in Information programs |
 | --- | --- |
 | **Engineering** | Technical accuracy; source of truth for documentation; deep review of advanced content |
 | **Product** | Feature coverage; ensuring education keeps pace with the roadmap; sharing internal knowledge |

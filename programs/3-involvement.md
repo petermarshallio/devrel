@@ -1,24 +1,49 @@
 # 3 - Involvement
 
-**Strategic goal:** [Loyalty](../goals/loyalty.md)
-**Journey stages:** [Acclimation](../journey/acclimation.md) → [Application](../journey/application.md) → [Advocacy](../journey/advocacy.md)
-**Primary practitioner:** [Connected Correspondent](../practitioners/connected-correspondent.md)
+**Strategic goal:** [Loyalty](../goals/loyalty.md) **Journey stages:**
+[Acclimation](../journey/acclimation.md) →
+[Application](../journey/application.md) → [Advocacy](../journey/advocacy.md)
+**Primary practitioner:**
+[Connected Correspondent](../practitioners/connected-correspondent.md)
 
-Involvement programmes build the quality, density, and resilience of the edges in the ecosystem graph. They are not about broadcasting to practitioners — they are about practitioners connecting with each other, with the technology, and with the organisation in ways that are genuinely mutual.
+Involvement programs build the quality, density, and resilience of the edges in
+the ecosystem graph. They are not about broadcasting to practitioners — they are
+about practitioners connecting with each other, with the technology, and with
+the organisation in ways that are genuinely mutual.
 
-The distinction matters. An event where DevRel speaks to an audience is an Inspiration programme. An event where practitioners speak to each other, solve problems together, and leave with new relationships is an Involvement programme. The difference is in the direction of value and the nature of participation.
+The distinction matters. An event where DevRel speaks to an audience is an
+Inspiration program. An event where practitioners speak to each other, solve
+problems together, and leave with new relationships is an Involvement program.
+The difference is in the direction of value and the nature of participation.
 
-The Guardian transition is not automatic. It requires the ecosystem to give enough, and for the practitioner to care enough about the ecosystem to give back. DevRel's role is to create the conditions that make that transition feel natural — that make contributing feel worthwhile, that make the Guardian's investment feel consequential. The moment a practitioner answers their first question in a community channel, or files their first substantive bug report, or helps onboard the person sitting next to them at a hackathon — that is the transition. DevRel's job is to make sure that moment is noticed, rewarded, and likely to be repeated.
+The Guardian transition is not automatic. It requires the ecosystem to give
+enough, and for the practitioner to care enough about the ecosystem to give
+back. DevRel's role is to create the conditions that make that transition feel
+natural — that make contributing feel worthwhile, that make the Guardian's
+investment feel consequential. The moment a practitioner answers their first
+question in a community channel, or files their first substantive bug report, or
+helps onboard the person sitting next to them at a hackathon — that is the
+transition. DevRel's job is to make sure that moment is noticed, rewarded, and
+likely to be repeated.
 
-Community is structural. Kinship is relational. These programmes build the fellowship that emerges from shared technical struggle — the kind of loyalty that survives a competitor's pitch because it is grounded in real relationships and real shared experience, not in vendor messaging.
+Community is structural. Kinship is relational. These programs build the
+fellowship that emerges from shared technical struggle — the kind of loyalty
+that survives a competitor's pitch because it is grounded in real relationships
+and real shared experience, not in vendor messaging.
 
-## Programmes
+## programs
 
 ### Events
 
-The organised gathering of practitioners — in person or virtually — for the purpose of connection, learning, and shared experience. This includes user groups, meetups, hackathons, contributor summits, and DevRel-organised conference tracks.
+The organised gathering of practitioners — in person or virtually — for the
+purpose of connection, learning, and shared experience. This includes user
+groups, meetups, hackathons, contributor summits, and DevRel-organised
+conference tracks.
 
-Events where practitioners speak, teach, and problem-solve alongside each other are categorically different from field marketing events where the organisation presents to an audience. Both have a place, but they serve different goals and belong to different functions.
+Events where practitioners speak, teach, and problem-solve alongside each other
+are categorically different from field marketing events where the organisation
+presents to an audience. Both have a place, but they serve different goals and
+belong to different functions.
 
 | Dimension | Description |
 | --- | --- |
@@ -27,13 +52,21 @@ Events where practitioners speak, teach, and problem-solve alongside each other 
 | **Place** | In-person meetups and conferences (synchronous, physical); virtual events and town halls (synchronous, logical); hybrid formats; hackathon venues |
 | **Technology** | Event management platforms; community platforms for pre/post engagement; video conferencing and streaming; AI-assisted agenda curation and attendee matching |
 
-**Signal:** Practitioner-to-practitioner connections formed (not just attendee count); return attendance rate; post-event community activity uplift; Guardian identification rate per event.
+**Signal:** Practitioner-to-practitioner connections formed (not just attendee
+count); return attendance rate; post-event community activity uplift; Guardian
+identification rate per event.
 
 ### Open source and contribution
 
-The programmes that support and grow practitioner contribution to the technology — whether that is code, documentation, extensions, integrations, bug reports, or design feedback. This family also includes the developer programmes that help practitioners build on top of the technology using published APIs, SDKs, and extension frameworks.
+The programs that support and grow practitioner contribution to the technology —
+whether that is code, documentation, extensions, integrations, bug reports, or
+design feedback. This family also includes the developer programs that help
+practitioners build on top of the technology using published APIs, SDKs, and
+extension frameworks.
 
-Contribution is the highest-trust form of Involvement. A practitioner who contributes is not a consumer — they are a co-creator. The relationship to the technology changes qualitatively. So does their stake in the ecosystem.
+Contribution is the highest-trust form of Involvement. A practitioner who
+contributes is not a consumer — they are a co-creator. The relationship to the
+technology changes qualitatively. So does their stake in the ecosystem.
 
 | Dimension | Description |
 | --- | --- |
@@ -42,34 +75,49 @@ Contribution is the highest-trust form of Involvement. A practitioner who contri
 | **Place** | GitHub and source control platforms (asynchronous); contributor office hours (synchronous); mailing lists and contributor Slack channels (asynchronous) |
 | **Technology** | Source control and CI/CD platforms; contributor analytics; recognition and rewards tooling; AI-assisted code review for routine contributions |
 
-**Signal:** Contributor count and diversity; contribution recurrence rate (one-time vs. sustained contributors); time from first contribution to second; committer and maintainer pipeline health.
+**Signal:** Contributor count and diversity; contribution recurrence rate
+(one-time vs. sustained contributors); time from first contribution to second;
+committer and maintainer pipeline health.
 
-### Guardians programme
+### Guardians program
 
-The structured identification, cultivation, and recognition of the practitioners who are structurally load-bearing in the ecosystem — the Guardians who answer questions, contribute back, speak at events, and carry the ecosystem's knowledge with them wherever they go.
+The structured identification, cultivation, and recognition of the practitioners
+who are structurally load-bearing in the ecosystem — the Guardians who answer
+questions, contribute back, speak at events, and carry the ecosystem's knowledge
+with them wherever they go.
 
-A Guardians programme is not a champions programme in the marketing sense — it is not primarily about advocacy for the brand. It is about recognising and sustaining the people whose participation makes the ecosystem resilient. The value to them is access, recognition, and the sense of belonging to something real. The value to the ecosystem is the distributed capability and trust they represent.
+A Guardians program is not a champions program in the marketing sense — it is
+not primarily about advocacy for the brand. It is about recognising and
+sustaining the people whose participation makes the ecosystem resilient. The
+value to them is access, recognition, and the sense of belonging to something
+real. The value to the ecosystem is the distributed capability and trust they
+represent.
 
 | Dimension | Description |
 | --- | --- |
 | **People** | Led by CC practitioners; partnered with Product (early access, roadmap sessions), Engineering (technical depth access), and Marketing (recognition, swag, amplification) |
-| **Process** | Guardian identification via community signals → outreach and relationship building → formalisation of recognition (programme membership) → ongoing investment (access, events, feedback loops) → measurement of ecosystem contribution |
+| **Process** | Guardian identification via community signals → outreach and relationship building → formalisation of recognition (program membership) → ongoing investment (access, events, feedback loops) → measurement of ecosystem contribution |
 | **Place** | Private channels (Slack, Discord) for direct access; in-person gatherings at major events (synchronous); digital recognition surfaces (asynchronous) |
 | **Technology** | Community analytics platforms (Common Room or equivalent) for Guardian signal detection; CRM for relationship tracking; AI-assisted signal aggregation |
 
-**Signal:** Guardian count and growth rate; Guardian contribution as a proportion of total ecosystem contribution; Guardian retention rate year-on-year; ratio of Guardian-originated content and answers to DevRel-originated.
+**Signal:** Guardian count and growth rate; Guardian contribution as a
+proportion of total ecosystem contribution; Guardian retention rate
+year-on-year; ratio of Guardian-originated content and answers to
+DevRel-originated.
 
 ## Practitioner fit
 
-Involvement is the natural home of the Connected Correspondent. The relational fabric that makes these programmes work — the trust that gets practitioners to show up, speak honestly, contribute, and come back — is built and maintained by the CC.
+Involvement is the natural home of the Connected Correspondent. The relational
+fabric that makes these programs work — the trust that gets practitioners to
+show up, speak honestly, contribute, and come back — is built and maintained by
+the CC.
 
-The EE contributes through the content that makes events and contribution programmes substantive. The RR contributes through the presence that makes gatherings feel like they matter.
-
----
-
+The EE contributes through the content that makes events and contribution
+programs substantive. The RR contributes through the presence that makes
+gatherings feel like they matter.
 ## Organisational partners
 
-| Partner | Role in Involvement programmes |
+| Partner | Role in Involvement programs |
 | --- | --- |
 | **Engineering** | Contribution review and acceptance; technical depth for contributor summits; co-hosting contributor office hours |
 | **Marketing** | Event logistics and production; Guardian recognition and amplification; co-ordination of involvement activities with field marketing calendar |

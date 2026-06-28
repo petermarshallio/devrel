@@ -1,55 +1,110 @@
 # Attraction
 
-**The practitioner's question:** Is there something here worth paying attention to?
+**The practitioner's question:** Is there something here worth paying attention
+to?
 
-Attraction is the moment before the journey properly begins. The practitioner has not decided to investigate, has not formed an opinion, has not allocated time or attention. They have simply encountered something — a name, a reference, a mention in a talk they were half-listening to — and made a micro-decision about whether it is worth a second look.
+Attraction is the moment before the journey properly begins. The practitioner
+has not decided to investigate, has not formed an opinion, has not allocated
+time or attention. They have simply encountered something — a name, a reference,
+a mention in a talk they were half-listening to — and made a micro-decision
+about whether it is worth a second look.
 
-That micro-decision is the whole game at this stage. Nothing else matters if it does not get made.
-
----
-
+That micro-decision is the whole game at this stage. Nothing else matters if it
+does not get made.
 ## What is happening for the practitioner
 
-Practitioners are not short of things competing for their attention. New frameworks, tools, platforms, and approaches appear constantly. Most get filtered out instantly — not through deliberate evaluation but through an unconscious pattern-match: is this the kind of thing I pay attention to? Is it relevant to my work? Does it come from a source I trust?
+Practitioners are not short of things competing for their attention. New
+frameworks, tools, platforms, and approaches appear constantly. Most get
+filtered out instantly — not through deliberate evaluation but through an
+unconscious pattern-match: is this the kind of thing I pay attention to? Is it
+relevant to my work? Does it come from a source I trust?
 
-The practitioner at the Attraction stage is not yet evaluating the technology. They do not know enough to evaluate it. They are evaluating whether the signal they have received is worth following up. And the signals they trust come from people, not from vendors.
+The practitioner at the Attraction stage is not yet evaluating the technology.
+They do not know enough to evaluate it. They are evaluating whether the signal
+they have received is worth following up. And the signals they trust come from
+people, not from vendors.
 
-A practitioner who hears about a technology from a peer whose judgment they respect will investigate it. The same practitioner who encounters the same technology in a sponsored post or a conference keynote by someone they have never heard of will scroll past. The content of the message is identical. What changes is the source.
+A practitioner who hears about a technology from a peer whose judgment they
+respect will investigate it. The same practitioner who encounters the same
+technology in a sponsored post or a conference keynote by someone they have
+never heard of will scroll past. The content of the message is identical. What
+changes is the source.
 
-This is why Attraction is primarily a practitioner-to-practitioner phenomenon. The most powerful mechanism for creating Attraction is not advertising or content marketing — it is the recommendation of someone the practitioner already trusts. A Guardian who mentions a tool in passing in a community channel generates more genuine Attraction than a campaign that reaches ten thousand practitioners who have never heard of the person running it.
-
----
-
+This is why Attraction is primarily a practitioner-to-practitioner phenomenon.
+The most powerful mechanism for creating Attraction is not advertising or
+content marketing — it is the recommendation of someone the practitioner already
+trusts. A Guardian who mentions a tool in passing in a community channel
+generates more genuine Attraction than a campaign that reaches ten thousand
+practitioners who have never heard of the person running it.
 ## What makes Attraction succeed
 
-**Trusted voices at visible moments.** A practitioner speaking honestly about something that solved their problem — at a conference, in a podcast, in a blog post, in a Slack thread — reaches other practitioners at exactly the right cognitive moment: when they are actively engaged with the problem the tool solves.
+**Trusted voices at visible moments.** A practitioner speaking honestly about
+something that solved their problem — at a conference, in a podcast, in a blog
+post, in a Slack thread — reaches other practitioners at exactly the right
+cognitive moment: when they are actively engaged with the problem the tool
+solves.
 
-**Peer credibility, not vendor credibility.** The organisation's own voice has limited reach at the Attraction stage. Practitioners are primed to discount vendor messaging. What reaches them is the voice of someone like them — a practitioner with their hands in the same problems, speaking from their own experience.
+**Peer credibility, not vendor credibility.** The organisation's own voice has
+limited reach at the Attraction stage. Practitioners are primed to discount
+vendor messaging. What reaches them is the voice of someone like them — a
+practitioner with their hands in the same problems, speaking from their own
+experience.
 
-**Relevance to a real problem.** Attraction is not generated by general awareness of a technology's existence. It is generated by the moment a practitioner realises that a technology addresses something they are currently struggling with. The signal that creates Attraction has to land at the right time with the right framing.
+**Relevance to a real problem.** Attraction is not generated by general
+awareness of a technology's existence. It is generated by the moment a
+practitioner realises that a technology addresses something they are currently
+struggling with. The signal that creates Attraction has to land at the right
+time with the right framing.
 
-**Low cost of initial investigation.** Even a successful Attraction moment can be wasted if the next step — finding out more — feels effortful. Practitioners who are interested but busy will not struggle to understand what something is. The path from Attraction to Awareness needs to be obvious and frictionless.
-
----
-
+**Low cost of initial investigation.** Even a successful Attraction moment can
+be wasted if the next step — finding out more — feels effortful. Practitioners
+who are interested but busy will not struggle to understand what something is.
+The path from Attraction to Awareness needs to be obvious and frictionless.
 ## What makes Attraction fail
 
-**Oversaturation of vendor messaging.** Practitioners who have been exposed to too much promotional content from an organisation become immune to it. The credibility required to generate genuine Attraction is depleted by repeated attempts at manufactured attention.
+**Oversaturation of vendor messaging.** Practitioners who have been exposed to
+too much promotional content from an organisation become immune to it. The
+credibility required to generate genuine Attraction is depleted by repeated
+attempts at manufactured attention.
 
-**The wrong audience.** Attraction in a context where the practitioner has no relevant problem to solve is wasted. The talk at a conference where none of the attendees face the problem the technology solves generates awareness without Attraction. Specificity of context matters.
+**The wrong audience.** Attraction in a context where the practitioner has no
+relevant problem to solve is wasted. The talk at a conference where none of the
+attendees face the problem the technology solves generates awareness without
+Attraction. Specificity of context matters.
 
-**Absence of trusted voices.** If no practitioners are speaking honestly and publicly about the technology, there is nothing for the Attraction mechanism to amplify. This is why the Guardian programme is not just a loyalty initiative — it is the upstream generator of the peer credibility on which Attraction depends.
+**Absence of trusted voices.** If no practitioners are speaking honestly and
+publicly about the technology, there is nothing for the Attraction mechanism to
+amplify. This is why the Guardian program is not just a loyalty initiative — it
+is the upstream generator of the peer credibility on which Attraction depends.
 
-**Mismatch between the signal and the reality.** Attraction created by overclaiming — making the technology sound more capable or more broadly applicable than it is — produces low-quality Awareness and fails at Assessment. Practitioners who arrive at Assessment already sceptical because the Attraction moment felt overblown are harder to convert than practitioners who arrived with modest, accurate expectations.
-
----
-
+**Mismatch between the signal and the reality.** Attraction created by
+overclaiming — making the technology sound more capable or more broadly
+applicable than it is — produces low-quality Awareness and fails at Assessment.
+Practitioners who arrive at Assessment already sceptical because the Attraction
+moment felt overblown are harder to convert than practitioners who arrived with
+modest, accurate expectations.
 ## DevRel's role at Attraction
 
-The primary DevRel instrument at this stage is the [Reputable Resonator](../practitioners/reputable-resonator.md). The RR creates Attraction through presence, craft, and transferable credibility — the conference talk that makes practitioners lean forward, the article that reframes a topic, the endorsement that makes something feel worth investigating.
+The primary DevRel instrument at this stage is the
+[Reputable Resonator](../practitioners/reputable-resonator.md). The RR creates
+Attraction through presence, craft, and transferable credibility — the
+conference talk that makes practitioners lean forward, the article that reframes
+a topic, the endorsement that makes something feel worth investigating.
 
-But the RR cannot manufacture Attraction alone. The practitioner voices that generate the most genuine Attraction are Guardians — practitioners who are already deep in the ecosystem and whose enthusiasm is visibly authentic. DevRel's upstream investment in the [Guardians programme](../programs/involvement.md) and [Storytelling](../programs/inspiration.md) is what makes Attraction at scale possible.
+But the RR cannot manufacture Attraction alone. The practitioner voices that
+generate the most genuine Attraction are Guardians — practitioners who are
+already deep in the ecosystem and whose enthusiasm is visibly authentic.
+DevRel's upstream investment in the
+[Guardians program](../programs/3-involvement.md) and
+[Storytelling](../programs/1-inspiration.md) is what makes Attraction at scale
+possible.
 
-The [Inspiration programme family](../programs/inspiration.md) is the formal home of Attraction-stage activity: advocacy and content, storytelling, conference presence, and the social visibility that makes a technology feel alive and worth following.
+The [Inspiration program family](../programs/1-inspiration.md) is the formal
+home of Attraction-stage activity: advocacy and content, storytelling,
+conference presence, and the social visibility that makes a technology feel
+alive and worth following.
 
-At this stage, DevRel is not trying to teach — that is [Awareness](awareness.md). It is trying to make the practitioner feel that something is worth their attention. The quality of that first impression sets the frame for everything that follows.
+At this stage, DevRel is not trying to teach — that is
+[Awareness](awareness.md). It is trying to make the practitioner feel that
+something is worth their attention. The quality of that first impression sets
+the frame for everything that follows.
