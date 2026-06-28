@@ -66,7 +66,7 @@ Or, like an invasive species in a corn field, you'll get weeded out...
 
 Next, [welcome to the network](network.md).
 
---
+---
 
 **[How healthy is the ecosystem?](maturity/README.md)** Ecosystem maturity is
 not about headcount or event volume. It is about graph topology — how many
