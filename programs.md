@@ -13,7 +13,7 @@ The operational framework behind all of this is [STACK](stack.md) — Stewardshi
 The journey a practitioner takes from first encounter to active contributor follows seven stages:
 
 | Stage | The practitioner's question |
-|---|---|
+| --- | --- |
 | **Attraction** | Is there something here worth paying attention to? |
 | **Awareness** | What is this, and is it relevant to me? |
 | **Assessment** | Should I use this? Can I? |
@@ -31,11 +31,11 @@ The developer journey also maps onto the software development lifecycle. The pre
 ## The four programme families
 
 | Family | Strategic goal | Journey stages |
-|---|---|---|
-| [Inspiration](1-inspiration.md) | Market awareness | Attraction → Awareness → Advocacy |
-| [Information](2-information.md) | Adoption | Assessment → Adoption → Acclimation |
-| [Involvement](3-involvement.md) | Loyalty | Acclimation → Application → Advocacy |
-| [Innovation](4-innovation.md) | Product development | Application → Advocacy |
+| --- | --- | --- |
+| [Inspiration](programs/1-inspiration.md) | Market awareness | Attraction → Awareness → Advocacy |
+| [Information](programs/2-information.md) | Adoption | Assessment → Adoption → Acclimation |
+| [Involvement](programs/3-involvement.md) | Loyalty | Acclimation → Application → Advocacy |
+| [Innovation](programs/4-innovation.md) | Product development | Application → Advocacy |
 
 Programme scope and priority depend on the organisation's emphasis on paid versus unpaid relationships. An open-source-led organisation will weight Involvement and Information differently than a commercial SaaS organisation.
 
@@ -50,12 +50,11 @@ Each programme in this section is described across four dimensions. This follows
 **Process** — the workflow, campaign structure, or programme design: how it is initiated, run, and closed
 
 **Place** — the channels through which it is delivered, both physical (events, offices, conferences) and logical (forums, Slack, documentation sites, video platforms). Channels vary in two important ways:
+
 - *Synchronous* channels exist at a specific time and place. They allow immediate interaction and relationship-making, but are not personalised and may not meet varying competencies.
 - *Asynchronous* channels are accessed on demand. They support self-paced consumption and scale broadly, but require practitioners to already be aware of and motivated to find them.
 
 **Technology** — the tooling, platforms, and automation that support or could replace human effort in the programme's delivery
-
----
 
 ## Intel
 

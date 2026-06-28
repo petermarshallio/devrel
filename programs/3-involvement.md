@@ -4,19 +4,13 @@
 **Journey stages:** [Acclimation](../journey/acclimation.md) → [Application](../journey/application.md) → [Advocacy](../journey/advocacy.md)
 **Primary practitioner:** [Connected Correspondent](../practitioners/connected-correspondent.md)
 
----
-
 Involvement programmes build the quality, density, and resilience of the edges in the ecosystem graph. They are not about broadcasting to practitioners — they are about practitioners connecting with each other, with the technology, and with the organisation in ways that are genuinely mutual.
 
 The distinction matters. An event where DevRel speaks to an audience is an Inspiration programme. An event where practitioners speak to each other, solve problems together, and leave with new relationships is an Involvement programme. The difference is in the direction of value and the nature of participation.
 
-**Donors** contribute to the ecosystem without a direct return on any specific contribution. They write the tutorial, answer the forum question, speak at the meetup. Their goals include reputation, craft, and genuine care for the ecosystem they have benefited from. The organisation's goal is for their contribution to be excellent and for the ecosystem to retain them. The alignment zone requires the organisation to be a good steward: recognising contribution, not exploiting it, and ensuring that Donors' work is visible and valued. For this person, Involvement programs are the cornerstone.
-
 The Guardian transition is not automatic. It requires the ecosystem to give enough, and for the practitioner to care enough about the ecosystem to give back. DevRel's role is to create the conditions that make that transition feel natural — that make contributing feel worthwhile, that make the Guardian's investment feel consequential. The moment a practitioner answers their first question in a community channel, or files their first substantive bug report, or helps onboard the person sitting next to them at a hackathon — that is the transition. DevRel's job is to make sure that moment is noticed, rewarded, and likely to be repeated.
 
 Community is structural. Kinship is relational. These programmes build the fellowship that emerges from shared technical struggle — the kind of loyalty that survives a competitor's pitch because it is grounded in real relationships and real shared experience, not in vendor messaging.
-
----
 
 ## Programmes
 
@@ -35,8 +29,6 @@ Events where practitioners speak, teach, and problem-solve alongside each other 
 
 **Signal:** Practitioner-to-practitioner connections formed (not just attendee count); return attendance rate; post-event community activity uplift; Guardian identification rate per event.
 
----
-
 ### Open source and contribution
 
 The programmes that support and grow practitioner contribution to the technology — whether that is code, documentation, extensions, integrations, bug reports, or design feedback. This family also includes the developer programmes that help practitioners build on top of the technology using published APIs, SDKs, and extension frameworks.
@@ -52,8 +44,6 @@ Contribution is the highest-trust form of Involvement. A practitioner who contri
 
 **Signal:** Contributor count and diversity; contribution recurrence rate (one-time vs. sustained contributors); time from first contribution to second; committer and maintainer pipeline health.
 
----
-
 ### Guardians programme
 
 The structured identification, cultivation, and recognition of the practitioners who are structurally load-bearing in the ecosystem — the Guardians who answer questions, contribute back, speak at events, and carry the ecosystem's knowledge with them wherever they go.
@@ -68,8 +58,6 @@ A Guardians programme is not a champions programme in the marketing sense — it
 | **Technology** | Community analytics platforms (Common Room or equivalent) for Guardian signal detection; CRM for relationship tracking; AI-assisted signal aggregation |
 
 **Signal:** Guardian count and growth rate; Guardian contribution as a proportion of total ecosystem contribution; Guardian retention rate year-on-year; ratio of Guardian-originated content and answers to DevRel-originated.
-
----
 
 ## Practitioner fit
 

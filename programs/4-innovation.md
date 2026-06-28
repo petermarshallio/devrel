@@ -4,19 +4,13 @@
 **Journey stages:** [Application](../journey/application.md) → [Advocacy](../journey/advocacy.md)
 **Primary practitioner:** [Connected Correspondent](../practitioners/connected-correspondent.md)
 
----
-
-Innovation programmes close the loop. The practitioner who has reached Application — who is running the technology at scale, hitting the real edges, forming the real opinions — holds knowledge the product team cannot manufacture. They know which parts of the documentation lie. They know which architectural pattern everyone uses and which one the docs recommend. They know what the technology cannot yet do that they need it to do.
-
-Innovation programmes are how that knowledge reaches the people who can act on it.
+**Donors** contribute to the ecosystem without a direct return on any specific contribution. They write the tutorial, answer the forum question, speak at the meetup. Their goals include reputation, craft, and genuine care for the ecosystem they have benefited from. The organisation's goal is for their contribution to be excellent and for the ecosystem to retain them. The alignment zone requires the organisation to be a good steward: recognising contribution, not exploiting it, and ensuring that Donors' work is visible and valued. For this person, Involvement programs are the cornerstone.
 
 This is not a feedback inbox. It is a relationship-mediated signal channel — one that only works because the practitioner trusts the person on the other end. The Connected Correspondent's value here is precisely that they are not a product manager, not a salesperson, and not an account manager. They are a peer. The unfiltered story that never makes it into a support ticket or a sales call has a way of coming out in that conversation.
 
 Innovation also operates in the other direction. Practitioners who contribute to the product — who help shape the roadmap, who validate designs before they ship, who build the integrations that extend the technology's reach — develop a qualitatively different stake in its success. The practitioner who helped design a feature does not churn quietly. They are, by definition, a Guardian.
 
----
-
-## Programmes
+## Programs
 
 ### Feedback
 
@@ -33,8 +27,6 @@ Feedback is not a survey. A survey tells you what practitioners are willing to s
 
 **Signal:** Volume and specificity of actionable feedback routed to Product; ratio of CC-sourced feedback to support-ticket-sourced feedback; practitioner-reported sense that their voice reaches the roadmap; feature adoption rate for features developed with practitioner input.
 
----
-
 ### Roadmap sessions
 
 The structured access programme through which key practitioners — primarily Guardians — have direct input to product direction. This is the formal seat at the table: early previews of the roadmap, the chance to validate assumptions before they become commitments, and the relationship with the product team that makes the feedback real rather than notional.
@@ -49,8 +41,6 @@ Roadmap sessions are not the same as beta programmes or early access. They are n
 | **Technology** | Secure document sharing for NDA-protected roadmap content; structured feedback tooling (forms, comment platforms); AI-assisted synthesis of session output; CRM tracking of who has been briefed on what and when |
 
 **Signal:** Guardian participation rate in roadmap sessions; product changes directly attributable to Guardian input; Guardian retention rate (Guardians who have been to a roadmap session versus those who have not); practitioner NPS among roadmap session participants.
-
----
 
 ### Design partnerships
 
@@ -69,8 +59,6 @@ Design partnerships are expensive in relationship capital. They only work if the
 
 **Signal:** Features shipped with direct design partner input; partner satisfaction with influence on final product; post-launch adoption rate among design partner practitioners versus general population; Guardian programme conversion rate from design partnership participants.
 
----
-
 ## Practitioner fit
 
 Innovation is the natural home of the Connected Correspondent. The trust that makes a practitioner say what they actually think — rather than what they think the vendor wants to hear — is CC-mediated. The Guardian who tells a product manager that the roadmap is wrong tells the CC that the roadmap is wrong. The distinction is not accidental.
@@ -78,8 +66,6 @@ Innovation is the natural home of the Connected Correspondent. The trust that ma
 The EE contributes to Innovation through the technical precision that makes feedback actionable. A CC who surfaces a practitioner's frustration without the technical synthesis to turn it into a clear signal has still done valuable work — but the signal that lands in Product as "practitioners are frustrated with the performance of X in Y workload under Z conditions" is more useful than "practitioners don't like X."
 
 Innovation is where the EE and CC collaborate most naturally. The CC builds the relationship. The EE makes the signal legible.
-
----
 
 ## Organisational partners
 

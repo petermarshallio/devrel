@@ -4,17 +4,15 @@
 **Journey stages:** [Assessment](../journey/assessment.md) → [Adoption](../journey/adoption.md) → [Acclimation](../journey/acclimation.md)
 **Primary practitioner:** [Expert Educator](../practitioners/expert-educator.md)
 
----
-
 Information programmes reduce the distance between what a practitioner needs to know and what they currently know. They are the primary driver of adoption — without them, a practitioner who encounters a technology cannot determine whether it fits their need, cannot get started without unnecessary struggle, and cannot get unstuck when they hit the inevitable wall.
 
 **Beneficiaries** receive from the network. Knowledge, tools, answers, confidence. The Beneficiary's primary goal is to solve their problem and build their capability. The organisation's goal is for them to adopt successfully, build real things, and not churn. The alignment zone is wide: and that's why Information programmes are so important.
 
 The programmes in this family serve three distinct needs: the practitioner who is deciding whether to use the technology (Assessment), the practitioner who is actively building with it (Adoption), and the practitioner who is running it in production and finding their feet (Acclimation).
 
----
+The practitioner who is running the technology at scale, hitting the real edge cases, forming real opinions — holds knowledge the product team cannot manufacture. They know which parts of the documentation lie. They know which architectural pattern everyone uses and which one the docs recommend. They know what the technology cannot yet do that they need it to do.
 
-## Programmes
+## Programs
 
 ### Education
 
@@ -29,8 +27,6 @@ Structured learning paths that take a practitioner from a defined starting point
 
 **Signal:** Course completion rates; time-to-first-deployment before and after course completion; downstream Q&A reduction on covered topics.
 
----
-
 ### Documentation
 
 Reference material, conceptual guides, tutorials, cookbooks, and notebooks that practitioners use while building. This is the always-on, self-service layer of Information — the material a practitioner finds at midnight when no human is available.
@@ -43,8 +39,6 @@ Reference material, conceptual guides, tutorials, cookbooks, and notebooks that 
 | **Technology** | Docs-as-code tooling; search and analytics; AI-assisted search and Q&A surfaces; feedback widgets that route signal back to authors |
 
 **Signal:** Search query success rate; time on page versus bounce; reduction in community questions after documentation updates; practitioner-reported confidence at key journey stages.
-
----
 
 ### Tutoring
 
@@ -61,13 +55,9 @@ Tutoring is distinct from product support. It is not about fixing defects; it is
 
 **Signal:** Time to first meaningful response in community channels; question resolution rate; repeat question frequency (declining = good documentation; flat = documentation gap); practitioner-reported unblock rate.
 
----
-
 ## Practitioner fit
 
 Information is the natural home of the Expert Educator. The CC may contribute through tutoring (the relationship layer of Q&A) and the RR through the occasional deep explainer or conference talk that reframes how a difficult topic is understood — but the sustained, systematic work of building and maintaining the Information family requires EE capability at its core.
-
----
 
 ## Organisational partners
 

@@ -8,23 +8,19 @@ Not different skills in the sense of a skills matrix. Different fundamental capa
 
 Aristotle identified three modes of persuasion. They map almost perfectly onto the three distinct ways a DevRel practitioner creates value.
 
----
-
 ## The three instruments
 
-### [Expert Educator](expert-educator.md) — Logos
+### [Expert Educator](practitioners/expert-educator.md) — Logos
 
 The instrument of knowledge and evidence. The EE moves people up the ladder of understanding — from awareness through comprehension to the ability to apply, analyse, synthesise, and evaluate. Knowledge flows outward. The EE makes complex things accessible without making them less true.
 
-### [Connected Correspondent](connected-correspondent.md) — Ethos
+### [Connected Correspondent](practitioners/connected-correspondent.md) — Ethos
 
 The instrument of trust and credibility. The CC builds relationships deep enough that people say things they would never say to a salesperson. Truth flows inward. Where the EE pushes knowledge out, the CC pulls signal in — unfiltered, honest, tacit knowledge made explicit.
 
-### [Reputable Resonator](reputable-resonator.md) — Pathos
+### [Reputable Resonator](practitioners/reputable-resonator.md) — Pathos
 
 The instrument of conviction. The RR does not merely inform or extract — they bring people to conviction through the accumulated weight of story, experience, and credibility. Their reputation is transferable: attaching their name or presence to something elevates it.
-
----
 
 ## Most practitioners are a blend
 
@@ -32,15 +28,11 @@ These are not exclusive categories. Most DevRel practitioners carry more than on
 
 The blend matters. What also matters is recognising the dominant tendency — because that is where the practitioner will do their best work, and where they should be deployed first.
 
----
-
 ## Growth looks different for each type
 
 - An **EE** typically needs to develop communication craft. The knowledge is there; the accessibility and reach need work.
 - A **CC** typically needs to develop the courage and discipline of genuinely non-transactional relationships — no agenda, no harvest, just truth.
 - An **RR** typically needs to develop substantive depth. Resonance without grounding becomes hollow. Conviction without knowledge is manipulation; conviction without trust is propaganda.
-
----
 
 ## A note on personality
 
@@ -48,10 +40,10 @@ These instruments do not map to personality types. An EE can be an extrovert who
 
 The instrument is not the expression. Both can vary independently.
 
----
-
 ## Luminary
 
 Luminary is not a fourth archetype — it is a career stage. A Luminary is an EE, CC, or RR whose reputation now precedes them. They are sought, not seeking. Programme committees compete for them. In some markets — particularly where earned credibility is a prerequisite for being heard — Luminary status is not optional; it is the price of admission.
 
 Becoming a Luminary is not a strategy. It is the accumulation of doing the work well, for long enough, in public.
+
+Next up, the [programs](programs.md).
