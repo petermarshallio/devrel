@@ -1,4 +1,4 @@
-# Inspiration
+# 1 - Inspiration
 
 **Strategic goal:** [Market awareness](../goals/market-awareness.md)
 **Journey stages:** [Attraction](../journey/attraction.md) → [Awareness](../journey/awareness.md) → [Advocacy](../journey/advocacy.md)

@@ -1,4 +1,4 @@
-# Innovation
+# 4 - Innovation
 
 **Strategic goal:** [Product development](../goals/product-development.md)
 **Journey stages:** [Application](../journey/application.md) → [Advocacy](../journey/advocacy.md)

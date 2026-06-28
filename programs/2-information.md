@@ -1,4 +1,4 @@
-# Information
+# 2 - Information
 
 **Strategic goal:** [Adoption](../goals/adoption.md)
 **Journey stages:** [Assessment](../journey/assessment.md) → [Adoption](../journey/adoption.md) → [Acclimation](../journey/acclimation.md)
@@ -7,6 +7,8 @@
 ---
 
 Information programmes reduce the distance between what a practitioner needs to know and what they currently know. They are the primary driver of adoption — without them, a practitioner who encounters a technology cannot determine whether it fits their need, cannot get started without unnecessary struggle, and cannot get unstuck when they hit the inevitable wall.
+
+**Beneficiaries** receive from the network. Knowledge, tools, answers, confidence. The Beneficiary's primary goal is to solve their problem and build their capability. The organisation's goal is for them to adopt successfully, build real things, and not churn. The alignment zone is wide: and that's why Information programmes are so important.
 
 The programmes in this family serve three distinct needs: the practitioner who is deciding whether to use the technology (Assessment), the practitioner who is actively building with it (Adoption), and the practitioner who is running it in production and finding their feet (Acclimation).
 

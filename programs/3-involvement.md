@@ -1,4 +1,4 @@
-# Involvement
+# 3 - Involvement
 
 **Strategic goal:** [Loyalty](../goals/loyalty.md)
 **Journey stages:** [Acclimation](../journey/acclimation.md) → [Application](../journey/application.md) → [Advocacy](../journey/advocacy.md)
@@ -9,6 +9,10 @@
 Involvement programmes build the quality, density, and resilience of the edges in the ecosystem graph. They are not about broadcasting to practitioners — they are about practitioners connecting with each other, with the technology, and with the organisation in ways that are genuinely mutual.
 
 The distinction matters. An event where DevRel speaks to an audience is an Inspiration programme. An event where practitioners speak to each other, solve problems together, and leave with new relationships is an Involvement programme. The difference is in the direction of value and the nature of participation.
+
+**Donors** contribute to the ecosystem without a direct return on any specific contribution. They write the tutorial, answer the forum question, speak at the meetup. Their goals include reputation, craft, and genuine care for the ecosystem they have benefited from. The organisation's goal is for their contribution to be excellent and for the ecosystem to retain them. The alignment zone requires the organisation to be a good steward: recognising contribution, not exploiting it, and ensuring that Donors' work is visible and valued. For this person, Involvement programs are the cornerstone.
+
+The Guardian transition is not automatic. It requires the ecosystem to give enough, and for the practitioner to care enough about the ecosystem to give back. DevRel's role is to create the conditions that make that transition feel natural — that make contributing feel worthwhile, that make the Guardian's investment feel consequential. The moment a practitioner answers their first question in a community channel, or files their first substantive bug report, or helps onboard the person sitting next to them at a hackathon — that is the transition. DevRel's job is to make sure that moment is noticed, rewarded, and likely to be repeated.
 
 Community is structural. Kinship is relational. These programmes build the fellowship that emerges from shared technical struggle — the kind of loyalty that survives a competitor's pitch because it is grounded in real relationships and real shared experience, not in vendor messaging.
 

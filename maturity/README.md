@@ -6,6 +6,9 @@ A highly engaged ecosystem can still be entirely dependent on the vendor to answ
 
 The difference is not measured in follower counts or event attendance. It is measured in graph topology.
 
+> Use metrics to clarify areas of uncertainty. Consider the risk to the business of inaction, not just of action.
+> — [Myrsini Koukiasa](https://www.linkedin.com/in/myrsinikoukiasa/), DevRelCon London, 2023
+
 ---
 
 ## The five levels

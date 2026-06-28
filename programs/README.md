@@ -32,10 +32,10 @@ The developer journey also maps onto the software development lifecycle. The pre
 
 | Family | Strategic goal | Journey stages |
 |---|---|---|
-| [Information](information.md) | Adoption | Assessment → Adoption → Acclimation |
-| [Inspiration](inspiration.md) | Market awareness | Attraction → Awareness → Advocacy |
-| [Involvement](involvement.md) | Loyalty | Acclimation → Application → Advocacy |
-| [Innovation](innovation.md) | Product development | Application → Advocacy |
+| [Inspiration](1-inspiration.md) | Market awareness | Attraction → Awareness → Advocacy |
+| [Information](2-information.md) | Adoption | Assessment → Adoption → Acclimation |
+| [Involvement](3-involvement.md) | Loyalty | Acclimation → Application → Advocacy |
+| [Innovation](4-innovation.md) | Product development | Application → Advocacy |
 
 Programme scope and priority depend on the organisation's emphasis on paid versus unpaid relationships. An open-source-led organisation will weight Involvement and Information differently than a commercial SaaS organisation.
 
